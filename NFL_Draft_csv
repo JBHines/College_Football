@@ -1,4 +1,772 @@
 CollegeAthleteId,NflAthleteId,CollegeId,CollegeTeam,CollegeConference,NflTeamId,NflTeam,Year,Overall,Round,Pick,Name,Position,Height,Weight,PreDraftRanking,PreDraftPositionRanking,PreDraftGrade,HometownInfo City,HometownInfo State,HometownInfo Country,HometownInfo Latitude,HometownInfo Longitude,HometownInfo CountyFips
+3917315.0,103832,201,Oklahoma,Big 12,22,Arizona,2019,1,1,1,Kyler Murray,Quarterback,70.0,207.0,9.0,1.0,90.0,Allen,TX,USA,33.1031744,-96.6705503,48085.0
+4040605.0,103504,194,Ohio State,Big Ten,25,San Francisco,2019,2,1,2,Nick Bosa,Defensive End,76.0,266.0,1.0,1.0,95.0,Fort Lauderdale,FL,USA,26.1223084,-80.1433786,12011.0
+4040982.0,103509,333,Alabama,SEC,20,New York,2019,3,1,3,Quinnen Williams,Defensive Tackle,75.0,303.0,2.0,1.0,95.0,Birmingham,AL,USA,33.5206824,-86.8024326,1073.0
+3728258.0,103514,228,Clemson,ACC,13,Las Vegas,2019,4,1,4,Clelin Ferrell,Defensive End,76.0,264.0,21.0,3.0,89.0,Richmond,VA,USA,37.5385087,-77.43428,51760.0
+4035434.0,103507,99,LSU,SEC,27,Tampa Bay,2019,5,1,5,Devin White,Inside Linebacker,72.0,237.0,4.0,1.0,94.0,Springhill,LA,USA,33.0059692,-93.4668396,22119.0
+3917792.0,103572,150,Duke,ACC,19,New York,2019,6,1,6,Daniel Jones,Quarterback,77.0,221.0,59.0,6.0,80.0,Charlotte,NC,USA,35.2272,-80.843083,37119.0
+3915239.0,103524,96,Kentucky,SEC,30,Jacksonville,2019,7,1,7,Josh Allen,Outside Linebacker,77.0,262.0,5.0,1.0,93.0,Montclair,NJ,USA,40.8164458,-74.2210643,34013.0
+4036133.0,103545,2294,Iowa,Big Ten,8,Detroit,2019,8,1,8,T.J. Hockenson,Tight End,77.0,251.0,6.0,1.0,92.0,Chariton,IA,USA,41.0147507,-93.3072514,19117.0
+4039303.0,103505,248,Houston,American Athletic,2,Buffalo,2019,9,1,9,Ed Oliver,Defensive Tackle,74.0,287.0,3.0,2.0,94.0,Houston,TX,USA,29.7589382,-95.3676974,48201.0
+4036261.0,103522,130,Michigan,Big Ten,23,Pittsburgh,2019,10,1,10,Devin Bush,Inside Linebacker,71.0,234.0,8.0,2.0,91.0,Pembroke Pines,FL,USA,26.02322025,-80.34123906625615,12011.0
+4040726.0,103513,333,Alabama,SEC,4,Cincinnati,2019,11,1,11,Jonah Williams,Offensive Tackle,77.0,302.0,17.0,2.0,90.0,Folsom,CA,USA,38.6779591,-121.1760583,6067.0
+4046523.0,103508,130,Michigan,Big Ten,9,Green Bay,2019,12,1,12,Rashan Gary,Defensive End,76.0,277.0,13.0,2.0,90.0,Plainfield,NJ,USA,40.6337136,-74.4073737,34039.0
+3728266.0,103516,228,Clemson,ACC,15,Miami,2019,13,1,13,Christian Wilkins,Defensive Tackle,75.0,315.0,7.0,3.0,92.0,Springfield,MA,USA,42.1014831,-72.589811,25013.0
+3672833.0,103621,103,Boston College,ACC,1,Atlanta,2019,14,1,14,Chris Lindstrom,Offensive Guard,76.0,308.0,41.0,1.0,86.0,Dudley,MA,USA,42.0572744,-71.9396898,25027.0
+4040616.0,103560,194,Ohio State,Big Ten,28,Washington,2019,15,1,15,Dwayne Haskins,Quarterback,75.0,231.0,15.0,2.0,90.0,Potomac,MD,USA,39.017936,-77.2094542,24031.0
+4035631.0,103525,52,Florida State,ACC,29,Carolina,2019,16,1,16,Brian Burns,Outside Linebacker,77.0,249.0,14.0,2.0,90.0,Fort Lauderdale,FL,USA,26.1223084,-80.1433786,12011.0
+4035483.0,103510,228,Clemson,ACC,19,New York,2019,17,1,17,Dexter Lawrence,Defensive Tackle,77.0,342.0,26.0,5.0,89.0,Wake Forest,NC,USA,35.9803138,-78.5103731,37183.0
+3116729.0,103726,152,NC State,ACC,16,Minnesota,2019,18,1,18,Garrett Bradbury,Center,75.0,306.0,18.0,1.0,90.0,Charlotte,NC,USA,35.2272,-80.843083,37119.0
+4035369.0,103519,344,Mississippi State,SEC,10,Tennessee,2019,19,1,19,Jeffery Simmons,Defensive Tackle,76.0,305.0,16.0,4.0,90.0,Macon,MS,USA,33.1054039,-88.5608767,28103.0
+4036131.0,103528,2294,Iowa,Big Ten,7,Denver,2019,20,1,20,Noah Fant,Tight End,76.0,249.0,12.0,2.0,90.0,Omaha,NE,USA,41.2587459,-95.9383758,31055.0
+3915419.0,103927,120,Maryland,Big Ten,9,Green Bay,2019,21,1,21,Darnell Savage Jr.,Safety,71.0,198.0,28.0,2.0,88.0,Newark,DE,USA,39.6852191,-75.7508289,10003.0
+3127264.0,103569,265,Washington State,Pac-12,21,Philadelphia,2019,22,1,22,Andre Dillard,Offensive Tackle,77.0,315.0,19.0,3.0,90.0,Woodinville,WA,USA,47.7545827,-122.1588902,53033.0
+3131498.0,103749,2011,Alabama State,SWAC,34,Houston,2019,23,1,23,Tytus Howard,Offensive Tackle,77.0,322.0,47.0,6.0,84.0,Monroeville,AL,USA,31.5279399,-87.3247077,1099.0
+4047365.0,103839,333,Alabama,SEC,13,Las Vegas,2019,24,1,24,Josh Jacobs,Running Back,70.0,220.0,23.0,1.0,89.0,Tulsa,OK,USA,36.1556805,-95.9929113,40143.0
+4241372.0,103527,201,Oklahoma,Big 12,33,Baltimore,2019,25,1,25,Marquise Brown,Wide Receiver,69.0,166.0,11.0,1.0,90.0,Hollywood,FL,USA,26.0112014,-80.1494901,12011.0
+3134690.0,103523,344,Mississippi State,SEC,28,Washington,2019,26,1,26,Montez Sweat,Defensive End,78.0,260.0,22.0,4.0,89.0,Stone Mountain,GA,USA,33.8080924,-84.1706273,13089.0
+3728305.0,103531,344,Mississippi State,SEC,13,Las Vegas,2019,27,1,27,Johnathan Abram,Safety,71.0,205.0,20.0,1.0,90.0,Columbia,MS,USA,31.2518439,-89.83758,28091.0
+3863182.0,103538,87,Notre Dame,FBS Independents,24,Los Angeles,2019,28,1,28,Jerry Tillery,Defensive Tackle,79.0,295.0,32.0,6.0,88.0,Shreveport,LA,USA,32.5221828,-93.7651944,22017.0
+3116449.0,103766,2628,TCU,Big 12,26,Seattle,2019,29,1,29,L.J. Collier,Defensive End,74.0,283.0,38.0,5.0,86.0,Munday,TX,USA,33.4492628,-99.6228637,48275.0
+3915163.0,103518,61,Georgia,SEC,19,New York,2019,30,1,30,Deandre Baker,Cornerback,71.0,193.0,36.0,4.0,87.0,Miami,FL,USA,25.7742658,-80.1936589,12086.0
+3127304.0,103566,264,Washington,Pac-12,1,Atlanta,2019,31,1,31,Kaleb McGary,Offensive Tackle,79.0,317.0,73.0,8.0,76.0,Fife,WA,USA,47.2359524,-122.3626381,53053.0
+4047839.0,103534,9,Arizona State,Pac-12,17,New England,2019,32,1,32,N'Keal Harry,Wide Receiver,74.0,228.0,33.0,2.0,87.0,Chandler,AZ,USA,33.3062223,-111.8413317,4013.0
+4038999.0,103578,264,Washington,Pac-12,22,Arizona,2019,33,2,1,Byron Murphy,Cornerback,71.0,190.0,27.0,1.0,88.0,Scottsdale,AZ,USA,33.4942189,-111.9260184,4013.0
+3910229.0,103745,218,Temple,American Athletic,11,Indianapolis,2019,34,2,2,Rock Ya-Sin,Cornerback,72.0,192.0,31.0,3.0,88.0,Decatur,GA,USA,33.7737582,-84.296069,13089.0
+4034961.0,103515,57,Florida,SEC,30,Jacksonville,2019,35,2,3,Jawaan Taylor,Offensive Tackle,77.0,312.0,10.0,1.0,90.0,Cocoa,FL,USA,28.3553873,-80.7318827,12009.0
+3126486.0,103567,2579,South Carolina,SEC,25,San Francisco,2019,36,2,4,Deebo Samuel,Wide Receiver,71.0,214.0,39.0,3.0,86.0,Inman,SC,USA,35.0470617,-82.0901088,45083.0
+4047661.0,103511,145,Ole Miss,SEC,29,Carolina,2019,37,2,5,Greg Little,Offensive Tackle,77.0,310.0,78.0,9.0,75.0,Allen,TX,USA,33.1031744,-96.6705503,48085.0
+3707061.0,103713,201,Oklahoma,Big 12,2,Buffalo,2019,38,2,6,Cody Ford,Offensive Tackle,76.0,329.0,25.0,4.0,89.0,Pineville,LA,USA,31.3224044,-92.4343035,21013.0
+3932886.0,103891,2117,Central Michigan,Mid-American,27,Tampa Bay,2019,39,2,7,Sean Bunting,Cornerback,72.0,195.0,62.0,10.0,79.0,Clinton Township,MI,USA,42.5869,-82.9196,34019.0
+4035458.0,103840,228,Clemson,ACC,13,Las Vegas,2019,40,2,8,Trayvon Mullen,Cornerback,74.0,199.0,75.0,11.0,76.0,Fort Lauderdale,FL,USA,26.1223084,-80.1433786,12011.0
+3125082.0,103680,2306,Kansas State,Big 12,7,Denver,2019,41,2,9,Dalton Risner,Offensive Tackle,77.0,312.0,46.0,5.0,85.0,Wiggins,CO,USA,40.2305363,-104.0727277,8087.0
+3924327.0,103589,142,Missouri,SEC,7,Denver,2019,42,2,10,Drew Lock,Quarterback,76.0,228.0,24.0,3.0,89.0,Lee's Summit,MO,USA,38.9107156,-94.3821295,29095.0
+3124587.0,103751,62,Hawai'i,Mountain West,8,Detroit,2019,43,2,11,Jahlani Tavai,Inside Linebacker,74.0,250.0,93.0,3.0,72.0,Redondo Beach,CA,USA,33.8455911,-118.3886766,6037.0
+3115485.0,103535,344,Mississippi State,SEC,9,Green Bay,2019,44,2,12,Elgton Jenkins,Center,77.0,310.0,51.0,3.0,83.0,,,,,,
+4035286.0,103875,238,Vanderbilt,SEC,17,New England,2019,45,2,13,Joejuan Williams,Cornerback,76.0,211.0,50.0,5.0,84.0,Nashville,TN,USA,36.1622296,-86.7743531,47037.0
+4035437.0,103506,99,LSU,SEC,5,Cleveland,2019,46,2,14,Greedy Williams,Cornerback,74.0,185.0,29.0,2.0,88.0,Shreveport,LA,USA,32.5221828,-93.7651944,22017.0
+4243244.0,103650,254,Utah,Pac-12,26,Seattle,2019,47,2,15,Marquise Blair,Safety,73.0,195.0,103.0,10.0,71.0,Wooster,OH,USA,40.7991766,-81.9383187,39169.0
+3917331.0,103735,245,Texas A&M,SEC,18,New Orleans,2019,48,2,16,Erik McCoy,Center,76.0,303.0,35.0,2.0,87.0,Lufkin,TX,USA,31.3386242,-94.7288558,48005.0
+3124970.0,103649,2628,TCU,Big 12,11,Indianapolis,2019,49,2,17,Ben Banogu,Outside Linebacker,76.0,250.0,80.0,3.0,75.0,McKinney,TX,USA,33.1976496,-96.6154471,48085.0
+4040980.0,103530,333,Alabama,SEC,16,Minnesota,2019,50,2,18,Irv Smith Jr.,Tight End,74.0,242.0,34.0,3.0,87.0,New Orleans,LA,USA,29.9499323,-90.0701156,22071.0
+4047646.0,103532,145,Ole Miss,SEC,10,Tennessee,2019,51,2,19,A.J. Brown,Wide Receiver,73.0,226.0,45.0,5.0,85.0,Starkville,MS,USA,33.4503998,-88.8183872,28105.0
+3127310.0,103756,264,Washington,Pac-12,4,Cincinnati,2019,52,2,20,Drew Sample,Tight End,77.0,255.0,72.0,5.0,77.0,Bellevue,WA,USA,47.6144219,-122.1923372,53033.0
+4045163.0,103596,213,Penn State,Big Ten,21,Philadelphia,2019,53,2,21,Miles Sanders,Running Back,71.0,211.0,42.0,2.0,85.0,Pittsburgh,PA,USA,40.4416941,-79.9900861,42003.0
+4240780.0,103598,96,Kentucky,SEC,34,Houston,2019,54,2,22,Lonnie Johnson Jr.,Cornerback,74.0,213.0,55.0,8.0,82.0,Gary,IN,USA,41.6021292,-87.3371372,18089.0
+3126035.0,103611,2459,Northern Illinois,Mid-American,34,Houston,2019,55,2,23,Max Scharping,Offensive Tackle,78.0,327.0,70.0,7.0,77.0,Green Bay,WI,USA,44.5126379,-88.0125794,55009.0
+4035004.0,103860,61,Georgia,SEC,12,Kansas City,2019,56,2,24,Mecole Hardman,Wide Receiver,70.0,187.0,67.0,12.0,78.0,Bowman,GA,USA,34.2048296,-83.0307002,13105.0
+3931397.0,103574,24,Stanford,Pac-12,21,Philadelphia,2019,57,2,25,JJ Arcega-Whiteside,Wide Receiver,74.0,225.0,48.0,6.0,84.0,Inman,SC,USA,35.0470617,-82.0901088,45083.0
+4042141.0,103870,2116,UCF,American Athletic,6,Dallas,2019,58,2,26,Trysten Hill,Defensive Tackle,75.0,308.0,87.0,9.0,73.0,Lee,FL,USA,30.4196584,-83.3004216,12079.0
+3121410.0,103553,194,Ohio State,Big Ten,11,Indianapolis,2019,59,2,27,Parris Campbell,Wide Receiver,72.0,205.0,49.0,7.0,84.0,Akron ,OH,USA,41.083064,-81.518485,39153.0
+3912028.0,103728,48,Delaware,CAA,24,Los Angeles,2019,60,2,28,Nasir Adderley,Safety,72.0,206.0,37.0,3.0,86.0,Leander,TX,USA,30.5586046,-97.8444364,48491.0
+4039007.0,103541,264,Washington,Pac-12,14,Los Angeles,2019,61,2,29,Taylor Rapp,Safety,72.0,208.0,43.0,4.0,85.0,Bellingham,WA,USA,48.7544012,-122.4788361,53073.0
+3914328.0,103715,113,Massachusetts,FBS Independents,22,Arizona,2019,62,2,30,Andy Isabella,Wide Receiver,69.0,188.0,110.0,15.0,70.0,Mayfield,OH,USA,41.541872,-81.439452,39035.0
+3917909.0,103727,258,Virginia,ACC,12,Kansas City,2019,63,2,31,Juan Thornhill,Safety,72.0,205.0,60.0,6.0,80.0,Altavista,VA,USA,37.1118094,-79.285579,51031.0
+4047650.0,103557,145,Ole Miss,SEC,26,Seattle,2019,64,2,32,DK Metcalf,Wide Receiver,75.0,228.0,40.0,4.0,86.0,Oxford,MS,USA,34.3664127,-89.5187664,28071.0
+3915282.0,103520,103,Boston College,ACC,22,Arizona,2019,65,3,1,Zach Allen,Defensive End,76.0,281.0,69.0,8.0,78.0,New Canaan,CT,USA,41.146763,-73.4948446,9001.0
+3932905.0,103915,2649,Toledo,Mid-American,23,Pittsburgh,2019,66,3,2,Diontae Johnson,Wide Receiver,71.0,183.0,137.0,19.0,66.0,Ruskin,FL,USA,27.7208575,-82.4331528,12057.0
+559716.0,103716,239,Baylor,Big 12,25,San Francisco,2019,67,3,3,Jalen Hurd,Wide Receiver,77.0,226.0,130.0,18.0,67.0,Hendersonville,TN,USA,36.3049177,-86.621443,47165.0
+4034967.0,103526,57,Florida,SEC,20,New York,2019,68,3,4,Jachai Polite,Defensive End,75.0,258.0,109.0,12.0,70.0,Daytona Beach,FL,USA,29.2108147,-81.0228331,12127.0
+3921690.0,103783,23,San José State,Mountain West,30,Jacksonville,2019,69,3,5,Josh Oliver,Tight End,77.0,249.0,102.0,7.0,71.0,Paso Robles,CA,USA,35.6267654,-120.6912456,6079.0
+4039359.0,103841,235,Memphis,American Athletic,14,Los Angeles,2019,70,3,6,Darrell Henderson,Running Back,68.0,208.0,125.0,8.0,68.0,Batesville,MS,USA,34.3114982,-89.9442567,28107.0
+3915525.0,103529,194,Ohio State,Big Ten,7,Denver,2019,71,3,7,Dre'Mont Jones,Defensive Tackle,75.0,281.0,64.0,7.0,79.0,Cleveland,OH,USA,41.5051613,-81.6934446,39035.0
+3116724.0,103724,152,NC State,ACC,4,Cincinnati,2019,72,3,8,Germaine Pratt,Outside Linebacker,75.0,240.0,95.0,6.0,72.0,High Point,NC,USA,35.9556924,-80.0053176,37081.0
+4035538.0,103573,66,Iowa State,Big 12,3,Chicago,2019,73,3,9,David Montgomery,Running Back,70.0,222.0,79.0,4.0,75.0,Cincinnati,OH,USA,39.1014537,-84.5124602,39061.0
+4040761.0,103678,2226,Florida Atlantic,Conference USA,2,Buffalo,2019,74,3,10,Devin Singletary,Running Back,68.0,203.0,141.0,9.0,65.0,Deerfield Beach,FL,USA,26.318342,-80.0996306,12011.0
+3917962.0,103848,245,Texas A&M,SEC,9,Green Bay,2019,75,3,11,Jace Sternberger,Tight End,76.0,251.0,71.0,4.0,77.0,Kingfisher,OK,USA,35.861432,-97.9317203,40073.0
+3121422.0,103800,194,Ohio State,Big Ten,28,Washington,2019,76,3,12,Terry McLaurin,Wide Receiver,72.0,208.0,57.0,8.0,81.0,Indianapolis ,IN,USA,39.7683331,-86.1583502,18097.0
+3115974.0,103563,130,Michigan,Big Ten,17,New England,2019,77,3,13,Chase Winovich,Defensive End,75.0,256.0,44.0,6.0,85.0,Clairton,PA,USA,40.2922938,-79.8817181,42003.0
+3121541.0,103565,275,Wisconsin,Big Ten,15,Miami,2019,78,3,14,Michael Deiter,Offensive Guard,77.0,309.0,85.0,6.0,73.0,Curtice,OH,USA,41.618382,-83.3677069,39123.0
+4046536.0,103842,130,Michigan,Big Ten,14,Los Angeles,2019,79,3,15,David Long,Cornerback,71.0,196.0,58.0,9.0,81.0,Los Angeles,CA,USA,34.0536909,-118.2427666,6037.0
+3138834.0,103947,252,BYU,FBS Independents,5,Cleveland,2019,80,3,16,Sione Takitaki,Outside Linebacker,73.0,238.0,107.0,8.0,71.0,Fontana,CA,USA,34.0922335,-117.435048,6071.0
+3915297.0,103738,103,Boston College,ACC,8,Detroit,2019,81,3,17,Will Harris,Safety,73.0,207.0,96.0,9.0,72.0,Suwanee,GA,USA,34.0514898,-84.0712997,13135.0
+3120070.0,103730,2429,Charlotte,Conference USA,10,Tennessee,2019,82,3,18,Nate Davis,Offensive Guard,75.0,316.0,81.0,4.0,75.0,Ashburn,VA,USA,39.0437192,-77.4874899,51107.0
+4046719.0,103847,127,Michigan State,Big Ten,23,Pittsburgh,2019,83,3,19,Justin Layne,Cornerback,74.0,192.0,53.0,6.0,83.0,Cleveland,OH,USA,41.5051613,-81.6934446,39035.0
+3121634.0,103782,2710,Western Illinois,MVFC,12,Kansas City,2019,84,3,20,Khalen Saunders,Defensive Tackle,72.0,324.0,83.0,8.0,74.0,Andrews,TX,USA,32.3187158,-102.5457155,48003.0
+3122766.0,103537,2348,Louisiana Tech,Conference USA,33,Baltimore,2019,85,3,21,Jaylon Ferguson,Defensive End,77.0,271.0,63.0,7.0,79.0,St. Francisville,LA,USA,30.7807244,-91.3763353,17101.0
+3933327.0,103892,21,San Diego State,Mountain West,34,Houston,2019,86,3,22,Kahale Warring,Tight End,77.0,252.0,92.0,6.0,73.0,Sonora,CA,USA,37.9840911,-120.3821381,6109.0
+3925347.0,103533,333,Alabama,SEC,17,New England,2019,87,3,23,Damien Harris,Running Back,70.0,216.0,108.0,6.0,70.0,Berea,KY,USA,37.568694,-84.2963224,21151.0
+3926229.0,103798,254,Utah,Pac-12,26,Seattle,2019,88,3,24,Cody Barton,Outside Linebacker,75.0,237.0,97.0,7.0,72.0,Salt Lake City ,UT,USA,40.7596198,-111.8867975,49035.0
+3117253.0,103615,24,Stanford,Pac-12,11,Indianapolis,2019,89,3,25,Bobby Okereke,Outside Linebacker,73.0,239.0,94.0,5.0,72.0,Santa Ana,CA,USA,33.7494951,-117.8732213,6059.0
+4033748.0,103857,213,Penn State,Big Ten,6,Dallas,2019,90,3,26,Connor McGovern,Offensive Guard,77.0,308.0,68.0,2.0,78.0,Larksville,PA,USA,41.2450817,-75.9307534,42079.0
+4411189.0,104038,2894,Sioux Falls,Northern Sun,24,Los Angeles,2019,91,3,27,Trey Pipkins,Offensive Tackle,78.0,309.0,,,,,,,,,
+3701582.0,103785,30,USC,Pac-12,20,New York,2019,92,3,28,Chuma Edoga,Offensive Tackle,76.0,308.0,123.0,11.0,68.0,Atlanta,GA,USA,33.7490987,-84.3901849,13121.0
+3932423.0,103864,87,Notre Dame,FBS Independents,33,Baltimore,2019,93,3,29,Miles Boykin,Wide Receiver,76.0,220.0,61.0,9.0,80.0,Tinley Park,IL,USA,41.5733669,-87.7844944,17031.0
+3873935.0,103733,2,Auburn,SEC,27,Tampa Bay,2019,94,3,30,Jamel Dean,Cornerback,73.0,206.0,126.0,16.0,68.0,Cocoa,FL,USA,28.3553873,-80.7318827,12009.0
+3123233.0,103551,295,Old Dominion,Conference USA,19,New York,2019,95,3,31,Oshane Ximines,Defensive End,76.0,253.0,74.0,9.0,76.0,Ahoskie,NC,USA,36.2868223,-76.9846808,37091.0
+3930086.0,103725,145,Ole Miss,SEC,2,Buffalo,2019,96,3,32,Dawson Knox,Tight End,76.0,254.0,118.0,8.0,69.0,Nashville,TN,USA,36.1622296,-86.7743531,47037.0
+3706968.0,103861,201,Oklahoma,Big 12,14,Los Angeles,2019,97,3,33,Bobby Evans,Offensive Tackle,76.0,312.0,114.0,10.0,69.0,Allen,TX,USA,33.1031744,-96.6705503,48085.0
+559475.0,104039,93,Murray State,OVC,30,Jacksonville,2019,98,3,34,Quincy Williams,Safety,70.0,239.0,,,,Chicago,IL,USA,41.8755616,-87.6244212,17031.0
+3155647.0,103739,96,Kentucky,SEC,27,Tampa Bay,2019,99,3,35,Mike Edwards,Safety,71.0,205.0,88.0,7.0,73.0,Cincinnati,OH,USA,39.1014537,-84.5124602,39061.0
+559556.0,103539,277,West Virginia,Big 12,29,Carolina,2019,100,3,36,Will Grier,Quarterback,75.0,217.0,124.0,7.0,68.0,Davidson,NC,USA,35.4993031,-80.8486846,37119.0
+3116455.0,103747,277,West Virginia,Big 12,17,New England,2019,101,3,37,Yodny Cajuste,Offensive Tackle,77.0,312.0,135.0,12.0,66.0,Hollywood,FL,USA,26.0112014,-80.1494901,12011.0
+4048244.0,103672,68,Boise State,Mountain West,16,Minnesota,2019,102,3,38,Alexander Mattison,Running Back,71.0,221.0,116.0,7.0,69.0,San Bernardino,CA,USA,34.1083449,-117.2897652,6071.0
+3917940.0,103546,66,Iowa State,Big 12,22,Arizona,2019,103,4,1,Hakeem Butler,Wide Receiver,77.0,227.0,66.0,11.0,78.0,Baltimore,MD,USA,39.2908816,-76.610759,24510.0
+546288.0,103552,152,NC State,ACC,4,Cincinnati,2019,104,4,2,Ryan Finley,Quarterback,76.0,213.0,30.0,4.0,88.0,Phoenix,AZ,USA,33.4484367,-112.0741417,4013.0
+4034953.0,103550,57,Florida,SEC,18,New Orleans,2019,105,4,3,Chauncey Gardner-Johnson,Safety,71.0,210.0,52.0,5.0,83.0,Cocoa,FL,USA,28.3553873,-80.7318827,12009.0
+3916655.0,103868,2199,Eastern Michigan,Mid-American,13,Las Vegas,2019,106,4,4,Maxx Crosby,Defensive End,77.0,255.0,106.0,11.0,71.0,Colleyville,TX,USA,32.8809603,-97.155012,48439.0
+3894856.0,103856,2294,Iowa,Big Ten,27,Tampa Bay,2019,107,4,5,Anthony Nelson,Defensive End,79.0,271.0,101.0,10.0,71.0,Urbandale,IA,USA,41.6274552,-93.7380624,19153.0
+4046675.0,103540,87,Notre Dame,FBS Independents,19,New York,2019,108,4,6,Julian Love,Cornerback,71.0,195.0,54.0,7.0,82.0,Westchester,IL,USA,41.8505866,-87.8820048,17031.0
+3929835.0,103748,127,Michigan State,Big Ten,11,Indianapolis,2019,109,4,7,Khari Willis,Safety,71.0,213.0,154.0,15.0,62.0,Jackson,MI,USA,42.2465036,-84.4016963,28049.0
+4035685.0,103685,254,Utah,Pac-12,25,San Francisco,2019,110,4,8,Mitch Wishnowsky,Punter,74.0,218.0,265.0,1.0,45.0,Perth,,Australia,,,
+3925358.0,103898,194,Ohio State,Big Ten,1,Atlanta,2019,111,4,9,Kendall Sheffield,Cornerback,71.0,193.0,99.0,14.0,72.0,Missouri City,TX,USA,29.6185669,-95.5377215,48157.0
+3931398.0,103544,24,Stanford,Pac-12,28,Washington,2019,112,4,10,Bryce Love,Running Back,69.0,200.0,145.0,10.0,64.0,Wake Forest,NC,USA,35.9803138,-78.5103731,37183.0
+4038441.0,103679,197,Oklahoma State,Big 12,33,Baltimore,2019,113,4,11,Justice Hill,Running Back,70.0,198.0,98.0,5.0,72.0,Tulsa,OK,USA,36.1556805,-95.9929113,40143.0
+3821678.0,103617,201,Oklahoma,Big 12,16,Minnesota,2019,114,4,12,Dru Samia,Offensive Guard,77.0,305.0,77.0,3.0,76.0,Sacramento,CA,USA,38.5815719,-121.4943996,6067.0
+3126362.0,101657,333,Alabama,SEC,29,Carolina,2019,115,4,13,Christian Miller,Outside Linebacker,75.0,247.0,149.0,10.0,63.0,Columbia,SC,USA,34.0007493,-81.0343313,45079.0
+4036134.0,103850,2294,Iowa,Big Ten,10,Tennessee,2019,116,4,14,Amani Hooker,Safety,71.0,210.0,91.0,8.0,73.0,Minneapolis,MN,USA,44.9772995,-93.2654692,27053.0
+3728253.0,103609,228,Clemson,ACC,8,Detroit,2019,117,4,15,Austin Bryant,Defensive End,76.0,271.0,211.0,20.0,54.0,Pavo,GA,USA,30.9597185,-83.73787105724485,13027.0
+3886633.0,103622,8,Arkansas,SEC,17,New England,2019,118,4,16,Hjalte Froholdt,Offensive Guard,77.0,306.0,209.0,13.0,54.0,Svendborg,,Denmark,,,
+3917852.0,103742,2390,Miami,ACC,5,Cleveland,2019,119,4,17,Sheldrick Redwine,Safety,72.0,196.0,132.0,14.0,66.0,Miami,FL,USA,25.7742658,-80.1936589,12086.0
+3916071.0,103686,277,West Virginia,Big 12,26,Seattle,2019,120,4,18,Gary Jennings Jr.,Wide Receiver,73.0,214.0,173.0,24.0,60.0,Stafford,VA,USA,38.4222681,-77.4084067,51179.0
+4039253.0,103793,277,West Virginia,Big 12,20,New York,2019,121,4,19,Trevon Wesco,Tight End,76.0,267.0,174.0,12.0,60.0,Martinsburg,WV,USA,39.4562528,-77.9639604,54003.0
+4035072.0,103644,96,Kentucky,SEC,23,Pittsburgh,2019,122,4,20,Benny Snell Jr.,Running Back,70.0,224.0,245.0,20.0,49.0,Westerville,OH,USA,40.126139,-82.9295287,39049.0
+4037650.0,103736,201,Oklahoma,Big 12,33,Baltimore,2019,123,4,21,Ben Powers,Offensive Guard,76.0,307.0,122.0,7.0,68.0,Wichita,KS,USA,37.6922361,-97.3375448,20173.0
+3136374.0,103797,154,Wake Forest,ACC,26,Seattle,2019,124,4,22,Phil Haynes,Offensive Guard,76.0,322.0,186.0,12.0,58.0,Raleigh,NC,USA,35.7803977,-78.6390989,37183.0
+3128815.0,103651,9,Arizona State,Pac-12,4,Cincinnati,2019,125,4,23,Renell Wren,Defensive Tackle,77.0,318.0,155.0,13.0,62.0,St. Louis,MO,USA,38.6268039,-90.1994097,29510.0
+4035015.0,103858,61,Georgia,SEC,3,Chicago,2019,126,4,24,Riley Ridley,Wide Receiver,73.0,199.0,65.0,10.0,78.0,Coconut Creek,FL,USA,26.2714628,-80.18180791688866,12011.0
+3912545.0,103667,30,USC,Pac-12,33,Baltimore,2019,127,4,25,Iman Marshall,Cornerback,73.0,207.0,199.0,24.0,55.0,Long Beach,CA,USA,33.7690164,-118.1916048,6037.0
+3916148.0,103878,235,Memphis,American Athletic,6,Dallas,2019,128,4,26,Tony Pollard,Running Back,72.0,210.0,181.0,12.0,59.0,Memphis,TN,USA,35.1490215,-90.0516285,47157.0
+3126182.0,103620,248,Houston,American Athletic,13,Las Vegas,2019,129,4,27,Isaiah Johnson,Cornerback,74.0,208.0,153.0,17.0,62.0,Bryan,TX,USA,30.6743643,-96.3699632,48041.0
+3129310.0,103729,87,Notre Dame,FBS Independents,24,Los Angeles,2019,130,4,28,Drue Tranquill,Inside Linebacker,74.0,234.0,121.0,4.0,68.0,Fort Wayne,IN,USA,41.0799898,-85.1386015,18003.0
+3128263.0,104040,84,Indiana,Big Ten,28,Washington,2019,131,4,29,Wes Martin,Offensive Guard,75.0,311.0,,,,West Milton,OH,USA,39.9625534,-84.3280022,39109.0
+3886834.0,103999,2483,Oregon,Pac-12,26,Seattle,2019,132,4,30,Ugochukwu Amadi,Safety,69.0,199.0,166.0,16.0,61.0,Nashville,TN,USA,36.1622296,-86.7743531,47037.0
+3892775.0,103564,2,Auburn,SEC,17,New England,2019,133,4,31,Jarrett Stidham,Quarterback,74.0,218.0,56.0,5.0,81.0,Stephenville,TX,USA,32.2191836,-98.2130634,48143.0
+3127294.0,103645,264,Washington,Pac-12,14,Los Angeles,2019,134,4,32,Greg Gaines,Defensive Tackle,73.0,312.0,143.0,12.0,64.0,La Habra,CA,USA,33.9330156,-117.944777,6059.0
+4411771.0,103746,2128,University Of Charleston (WV),Mountain East,1,Atlanta,2019,135,4,33,John Cominsky,Defensive End,77.0,286.0,187.0,19.0,58.0,,,,,,
+4040622.0,103853,194,Ohio State,Big Ten,4,Cincinnati,2019,136,4,34,Michael Jordan,Offensive Guard,78.0,312.0,84.0,5.0,74.0,Canton,MI,USA,42.3076547,-83.4868961,28089.0
+3843945.0,103700,99,LSU,SEC,13,Las Vegas,2019,137,4,35,Foster Moreau,Tight End,76.0,253.0,148.0,9.0,64.0,New Orleans,LA,USA,29.9499323,-90.0701156,22071.0
+3929648.0,103843,213,Penn State,Big Ten,21,Philadelphia,2019,138,4,36,Shareef Miller,Defensive End,77.0,254.0,127.0,15.0,67.0,Philadelphia,PA,USA,39.9527237,-75.1635262,42101.0
+3859100.0,103517,333,Alabama,SEC,22,Arizona,2019,139,5,1,Deionte Thompson,Safety,73.0,195.0,115.0,11.0,69.0,Orange,TX,USA,30.0929879,-93.7365549,48361.0
+3923397.0,103753,218,Temple,American Athletic,30,Jacksonville,2019,140,5,2,Ryquell Armstead,Running Back,71.0,220.0,158.0,11.0,62.0,Millville,NJ,USA,39.4020593,-75.0393368,34011.0
+3929924.0,103768,130,Michigan,Big Ten,23,Pittsburgh,2019,141,5,3,Zach Gentry,Tight End,80.0,265.0,295.0,18.0,40.0,Albuquerque,NM,USA,35.0841034,-106.6509851,35001.0
+3886816.0,103707,264,Washington,Pac-12,26,Seattle,2019,142,5,4,Ben Burr-Kirven,Inside Linebacker,72.0,230.0,147.0,8.0,64.0,Menlo Park,CA,USA,37.4519671,-122.1779927,6081.0
+3121538.0,103642,275,Wisconsin,Big Ten,19,New York,2019,143,5,5,Ryan Connelly,Inside Linebacker,74.0,242.0,202.0,11.0,55.0,Eden Prairie,MN,USA,44.8546856,-93.470786,27053.0
+3912544.0,103548,30,USC,Pac-12,11,Indianapolis,2019,144,5,6,Marvell Tell III,Safety,74.0,198.0,120.0,12.0,68.0,Pasadena,CA,USA,34.1476452,-118.1444779,6037.0
+4249087.0,103811,254,Utah,Pac-12,27,Tampa Bay,2019,145,5,7,Matt Gay,Place Kicker,72.0,232.0,328.0,1.0,35.0,Orem,UT,USA,40.2971825,-111.694943,49049.0
+3116175.0,103601,213,Penn State,Big Ten,8,Detroit,2019,146,5,8,Amani Oruwariye,Cornerback,74.0,205.0,90.0,13.0,73.0,Tampa,FL,USA,27.9477595,-82.458444,12057.0
+4034945.0,103845,57,Florida,SEC,2,Buffalo,2019,147,5,9,Vosean Joseph,Outside Linebacker,74.0,230.0,196.0,13.0,56.0,Miami,FL,USA,25.7742658,-80.1936589,12086.0
+3916903.0,103904,8,Arkansas,SEC,25,San Francisco,2019,148,5,10,Dre Greenlaw,Outside Linebacker,72.0,237.0,213.0,16.0,53.0,Fayetteville,AR,USA,36.0625843,-94.1574328,5143.0
+3135321.0,103624,228,Clemson,ACC,13,Las Vegas,2019,149,5,11,Hunter Renfrow,Wide Receiver,70.0,184.0,306.0,40.0,39.0,Myrtle Beach,SC,USA,33.6956461,-78.8900409,45051.0
+3917340.0,103816,245,Texas A&M,SEC,9,Green Bay,2019,150,5,12,Kingsley Keke,Defensive Tackle,75.0,288.0,169.0,15.0,60.0,Richmond,TX,USA,29.5821811,-95.7607832,48157.0
+3133487.0,103703,275,Wisconsin,Big Ten,15,Miami,2019,151,5,13,Andrew Van Ginkel,Outside Linebacker,76.0,241.0,291.0,25.0,40.0,Rock Valley,IA,USA,43.205241,-96.294843,19167.0
+3123944.0,103652,221,Pittsburgh,ACC,1,Atlanta,2019,152,5,14,Qadree Ollison,Running Back,73.0,228.0,250.0,21.0,48.0,Niagara Falls,NY,USA,43.08436,-79.0614686,36063.0
+3126364.0,103597,333,Alabama,SEC,28,Washington,2019,153,5,15,Ross Pierschbacher,Offensive Guard,76.0,307.0,172.0,10.0,60.0,Cedar Falls,IA,USA,42.5274123,-92.4453179,19013.0
+3915115.0,103876,57,Florida,SEC,29,Carolina,2019,154,5,16,Jordan Scarlett,Running Back,71.0,208.0,268.0,25.0,45.0,Fort Lauderdale ,FL,USA,26.1223084,-80.1433786,12011.0
+4040983.0,103543,333,Alabama,SEC,5,Cleveland,2019,155,5,17,Mack Wilson,Inside Linebacker,73.0,240.0,129.0,5.0,67.0,Montgomery,AL,USA,32.3669656,-86.3006485,1101.0
+3122678.0,103803,2483,Oregon,Pac-12,7,Denver,2019,156,5,18,Justin Hollins,Outside Linebacker,77.0,248.0,111.0,9.0,70.0,Arlington,TX,USA,32.701939,-97.105623790337,48439.0
+3728281.0,104004,135,Minnesota,Big Ten,20,New York,2019,157,5,19,Blake Cashman,Inside Linebacker,73.0,237.0,271.0,17.0,44.0,Eden Prairie,MN,USA,44.8546856,-93.470786,27053.0
+3917853.0,103626,2390,Miami,ACC,6,Dallas,2019,158,5,20,Michael Jackson,Cornerback,73.0,210.0,239.0,27.0,49.0,Birmingham,AL,USA,33.5206824,-86.8024326,1073.0
+3916922.0,103754,120,Maryland,Big Ten,17,New England,2019,159,5,21,Byron Cowart,Defensive Tackle,75.0,298.0,161.0,14.0,61.0,Seffner,FL,USA,27.998541000000003,-82.27488400114905,12057.0
+3917316.0,103902,245,Texas A&M,SEC,33,Baltimore,2019,160,5,22,Daylon Mack,Defensive Tackle,73.0,336.0,184.0,16.0,58.0,Gladewater,TX,USA,32.5365333,-94.9427169,48183.0
+3929865.0,103734,251,Texas,Big 12,34,Houston,2019,161,5,23,Charles Omenihu,Defensive End,77.0,280.0,131.0,16.0,66.0,Rowlett,TX,USA,32.9029017,-96.56388,48113.0
+3701669.0,103691,30,USC,Pac-12,16,Minnesota,2019,162,5,24,Cameron Smith,Inside Linebacker,74.0,238.0,156.0,9.0,62.0,Roseville,CA,USA,38.7521235,-121.2880059,6061.0
+3931395.0,103812,24,Stanford,Pac-12,17,New England,2019,163,5,25,Jake Bailey,Punter,73.0,200.0,329.0,2.0,35.0,Solana Beach,CA,USA,32.9905597,-117.2691316,6073.0
+3071353.0,104041,2627,Tarleton State,Lone Star,11,Indianapolis,2019,164,5,26,E.J. Speed,Inside Linebacker,76.0,230.0,,,,,,,,,
+4037459.0,103602,2390,Miami,ACC,6,Dallas,2019,165,5,27,Joe Jackson,Defensive End,76.0,275.0,119.0,14.0,68.0,Homestead,FL,USA,25.4718946,-80.4759905,12086.0
+3120590.0,103813,2449,North Dakota State,MVFC,24,Los Angeles,2019,166,5,28,Easton Stick,Quarterback,73.0,224.0,330.0,13.0,35.0,Dallas,TX,USA,32.7762719,-96.7968559,48113.0
+3116144.0,103610,77,Northwestern,Big Ten,21,Philadelphia,2019,167,5,29,Clayton Thorson,Quarterback,76.0,222.0,138.0,9.0,65.0,Wheaton,IL,USA,41.8646959,-88.1101709,17043.0
+3915196.0,103549,61,Georgia,SEC,10,Tennessee,2019,168,5,30,D'Andre Walker,Outside Linebacker,74.0,251.0,82.0,4.0,74.0,Fairburn,GA,USA,33.5670562,-84.5810418,13121.0
+3917660.0,103556,275,Wisconsin,Big Ten,14,Los Angeles,2019,169,5,31,David Edwards,Offensive Tackle,78.0,308.0,157.0,15.0,62.0,Downers Grove,IL,USA,41.7938195,-88.010376,17043.0
+3821683.0,104042,201,Oklahoma,Big 12,5,Cleveland,2019,170,5,32,Austin Seibert,Place Kicker,69.0,213.0,,,,Belleville,IL,USA,38.5200504,-89.9839935,17163.0
+3916945.0,103862,2,Auburn,SEC,19,New York,2019,171,5,33,Darius Slayton,Wide Receiver,73.0,190.0,112.0,16.0,70.0,Norcross,GA,USA,33.9412127,-84.2135309,13135.0
+3886824.0,103612,264,Washington,Pac-12,1,Atlanta,2019,172,5,34,Jordan Miller,Cornerback,73.0,186.0,160.0,18.0,61.0,Oceanside,CA,USA,33.1958696,-117.3794834,6073.0
+3116689.0,104043,153,North Carolina,ACC,28,Washington,2019,173,5,35,Cole Holcomb,Outside Linebacker,73.0,235.0,,,,New Smyrna Beach,FL,USA,29.0258132,-80.9271271,12127.0
+3124537.0,103717,278,Fresno State,Mountain West,22,Arizona,2019,174,6,1,Keesean Johnson,Wide Receiver,73.0,201.0,159.0,23.0,62.0,Palo Alto,CA,USA,37.4443293,-122.1598465,6085.0
+3921970.0,103905,2459,Northern Illinois,Mid-American,23,Pittsburgh,2019,175,6,2,Sutton Smith,Outside Linebacker,72.0,233.0,321.0,28.0,36.0,Saint Charles,MO,USA,38.7946252,-90.519829,29183.0
+4044452.0,103660,24,Stanford,Pac-12,25,San Francisco,2019,176,6,3,Kaden Smith,Tight End,77.0,255.0,165.0,11.0,61.0,Flower Mound,TX,USA,33.0283854,-97.0867203,48121.0
+3127367.0,103662,164,Rutgers,Big Ten,18,New Orleans,2019,177,6,4,Saquan Hampton,Safety,73.0,206.0,241.0,23.0,49.0,Hamilton,NJ,USA,40.2070573,-74.0812506,34025.0
+4038524.0,103586,265,Washington State,Pac-12,30,Jacksonville,2019,178,6,5,Gardner Minshew,Quarterback,73.0,225.0,240.0,10.0,49.0,Brandon,MS,USA,32.2731475,-89.9868058,28121.0
+3128707.0,103763,61,Georgia,SEC,22,Arizona,2019,179,6,6,Lamont Gaillard,Center,75.0,305.0,185.0,4.0,58.0,Fayetteville,NC,USA,35.0525759,-78.878292,37051.0
+4411836.0,103786,2687,Washburn,Mid America,19,New York,2019,180,6,7,Corey Ballentine,Cornerback,71.0,196.0,105.0,15.0,71.0,,,,,,
+3672862.0,103568,2390,Miami,ACC,2,Buffalo,2019,181,6,8,Jaquan Johnson,Safety,70.0,191.0,128.0,13.0,67.0,Miami,FL,USA,25.7742658,-80.1936589,12086.0
+4035222.0,103855,245,Texas A&M,SEC,4,Cincinnati,2019,182,6,9,Trayveon Williams,Running Back,68.0,206.0,76.0,3.0,76.0,Houston,TX,USA,29.7589382,-95.3676974,48201.0
+3915777.0,104044,238,Vanderbilt,SEC,25,San Francisco,2019,183,6,10,Justin Skule,Offensive Tackle,79.0,317.0,,,,Clifton,VA,USA,38.7802204,-77.3864722,51059.0
+3139522.0,103903,295,Old Dominion,Conference USA,8,Detroit,2019,184,6,11,Travis Fulgham,Wide Receiver,75.0,215.0,89.0,13.0,73.0,Ashburn,VA,USA,39.0437192,-77.4874899,51107.0
+3916676.0,104045,2649,Toledo,Mid-American,9,Green Bay,2019,185,6,12,Ka'dar Hollman,Cornerback,72.0,196.0,,,,Burlington,NJ,USA,40.0712218,-74.8648859,34005.0
+3915411.0,103690,120,Maryland,Big Ten,8,Detroit,2019,186,6,13,Ty Johnson,Running Back,71.0,210.0,293.0,28.0,40.0,Cumberland,MD,USA,39.6526498,-78.762383,24001.0
+3128317.0,104046,38,Colorado,Pac-12,7,Denver,2019,187,6,14,Juwann Winfree,Wide Receiver,75.0,215.0,,,,Englewood,NJ,USA,40.8928771,-73.9726381,34003.0
+3916074.0,103886,277,West Virginia,Big 12,10,Tennessee,2019,188,6,15,David Long Jr.,Outside Linebacker,71.0,227.0,170.0,12.0,60.0,Cincinnati,OH,USA,39.1014537,-84.5124602,39061.0
+3910156.0,104047,2546,Southeast Missouri State,OVC,5,Cleveland,2019,189,6,16,Drew Forbes,Offensive Tackle,77.0,303.0,,,,Bonne Terre,MO,USA,37.9247678,-90.5510587,29187.0
+3128685.0,103821,8,Arkansas,SEC,16,Minnesota,2019,190,6,17,Armon Watts,Defensive Tackle,77.0,300.0,242.0,21.0,49.0,St. Louis,MO,USA,38.6268039,-90.1994097,29510.0
+3139368.0,104048,2751,Wyoming,Mountain West,16,Minnesota,2019,191,6,18,Marcus Epps,Safety,72.0,191.0,,,,Los Angeles,CA,USA,34.0536909,-118.2427666,6037.0
+4241451.0,103554,333,Alabama,SEC,23,Pittsburgh,2019,192,6,19,Isaiah Buggs,Defensive Tackle,75.0,306.0,246.0,22.0,48.0,Ruston,LA,USA,32.5232053,-92.637927,22061.0
+3120502.0,103771,2210,Elon,CAA,16,Minnesota,2019,193,6,20,Olisaemeka Udoh,Offensive Tackle,78.0,323.0,193.0,19.0,56.0,Fayetteville,NC,USA,35.0525759,-78.878292,37051.0
+3932449.0,103641,87,Notre Dame,FBS Independents,9,Green Bay,2019,194,6,21,Dexter Williams,Running Back,71.0,212.0,212.0,16.0,54.0,Winter Garden,FL,USA,28.5656649,-81.5856742,12095.0
+3860287.0,104006,2117,Central Michigan,Mid-American,34,Houston,2019,195,6,22,Xavier Crawford,Cornerback,71.0,187.0,282.0,33.0,41.0,Pittsburg,CA,USA,38.0181745,-121.8901232,6013.0
+3930021.0,103592,164,Rutgers,Big Ten,20,New York,2019,196,6,23,Blessuan Austin,Cornerback,73.0,198.0,183.0,21.0,58.0,Queens,NY,USA,40.7498243,-73.7976337,36081.0
+3116172.0,103637,213,Penn State,Big Ten,33,Baltimore,2019,197,6,24,Trace McSorley,Quarterback,72.0,202.0,259.0,11.0,46.0,Ashburn,VA,USA,39.0437192,-77.4874899,51107.0
+3048681.0,104049,258,Virginia,ACC,25,San Francisco,2019,198,6,25,Tim  Harris,Cornerback,73.0,205.0,,,,,,,,,
+3115469.0,103946,344,Mississippi State,SEC,11,Indianapolis,2019,199,6,26,Gerri Green,Outside Linebacker,76.0,252.0,336.0,29.0,34.0,,,,,,
+3914613.0,103640,248,Houston,American Athletic,24,Los Angeles,2019,200,6,27,Emeke Egbule,Outside Linebacker,74.0,245.0,232.0,18.0,50.0,Galena Park,TX,USA,29.7335616,-95.2302123,48201.0
+3924364.0,103758,2579,South Carolina,SEC,12,Kansas City,2019,201,6,28,Rashad Fenton,Cornerback,71.0,193.0,252.0,28.0,47.0,Miami,FL,USA,25.7742658,-80.1936589,12086.0
+3915532.0,103558,194,Ohio State,Big Ten,15,Miami,2019,202,6,29,Isaiah Prince,Offensive Tackle,79.0,305.0,164.0,16.0,61.0,Greenbelt,MD,USA,39.0099993,-76.9125366,24033.0
+3124964.0,104050,2433,UL Monroe,Sun Belt,1,Atlanta,2019,203,6,30,Marcus Green,Wide Receiver,68.0,190.0,,,,Pontotoc,MS,USA,34.2478831,-88.998673,28115.0
+4037457.0,103666,2390,Miami,ACC,26,Seattle,2019,204,6,31,Travis Homer,Running Back,70.0,201.0,255.0,22.0,47.0,West Palm Beach,FL,USA,26.715364,-80.0532942,12099.0
+3916126.0,104051,2306,Kansas State,Big 12,3,Chicago,2019,205,6,32,Duke Shelley,Cornerback,69.0,180.0,,,,Tucker,GA,USA,33.8532701,-84.2200729,13089.0
+4036163.0,103580,152,NC State,ACC,28,Washington,2019,206,6,33,Kelvin Harmon,Wide Receiver,75.0,221.0,100.0,14.0,72.0,Palmyra,NJ,USA,40.0070565,-75.0282271,34005.0
+3920867.0,103784,2006,Akron,Mid-American,23,Pittsburgh,2019,207,6,34,Ulysees Gilbert III,Inside Linebacker,72.0,224.0,358.0,28.0,32.0,Ocala,FL,USA,29.1871986,-82.1400923,12083.0
+3914397.0,104052,189,Bowling Green,Mid-American,27,Tampa Bay,2019,208,6,35,Scott Miller,Wide Receiver,69.0,174.0,,,,Barrington,IL,USA,42.1539141,-88.1361888,17031.0
+3122915.0,103614,52,Florida State,ACC,26,Seattle,2019,209,6,36,Demarcus Christmas,Defensive Tackle,75.0,294.0,222.0,19.0,52.0,Bradenton,FL,USA,27.4989278,-82.5748194,12081.0
+3121578.0,103658,2,Auburn,SEC,4,Cincinnati,2019,210,6,37,Deshaun Davis,Inside Linebacker,71.0,234.0,225.0,14.0,51.0,Mobile,AL,USA,30.6943566,-88.0430541,1097.0
+3705353.0,103590,201,Oklahoma,Big 12,4,Cincinnati,2019,211,6,38,Rodney Anderson,Running Back,72.0,224.0,197.0,14.0,56.0,Katy,TX,USA,29.7857853,-95.8243956,48157.0
+4259480.0,103630,2579,South Carolina,SEC,29,Carolina,2019,212,6,39,Dennis Daley,Offensive Tackle,77.0,317.0,167.0,17.0,60.0,Columbia,SC,USA,34.0007493,-81.0343313,45079.0
+3122135.0,102700,245,Texas A&M,SEC,6,Dallas,2019,213,6,40,Donovan Wilson,Safety,72.0,199.0,234.0,22.0,50.0,Shreveport,LA,USA,32.5221828,-93.7651944,22017.0
+4361606.0,103889,328,Utah State,Mountain West,12,Kansas City,2019,214,6,41,Darwin Thompson,Running Back,68.0,198.0,305.0,29.0,39.0,Jenks,OK,USA,36.0228734,-95.9683278,40143.0
+3924310.0,103593,142,Missouri,SEC,27,Tampa Bay,2019,215,7,1,Terry Beckner Jr.,Defensive Tackle,76.0,296.0,195.0,17.0,56.0,East Saint Louis,IL,USA,38.6244952,-90.1509429,17163.0
+3115922.0,104053,356,Illinois,Big Ten,12,Kansas City,2019,216,7,2,Nick Allegretti,Center,76.0,310.0,,,,Frankfort,IL,USA,41.4958665,-87.8486613,17197.0
+3929845.0,103577,251,Texas,Big 12,16,Minnesota,2019,217,7,3,Kris Boyd,Cornerback,72.0,201.0,86.0,12.0,73.0,Gilmer,TX,USA,32.7312256,-94.9469309,48459.0
+3915536.0,103854,194,Ohio State,Big Ten,6,Dallas,2019,218,7,4,Mike Weber,Running Back,70.0,211.0,190.0,13.0,57.0,Detroit,MI,USA,42.3315509,-83.0466403,26163.0
+3115949.0,103635,120,Maryland,Big Ten,23,Pittsburgh,2019,219,7,5,Derwin Gray,Offensive Guard,77.0,320.0,267.0,17.0,45.0,Washington,DC,USA,38.8949855,-77.0365708,11001.0
+3122143.0,104054,245,Texas A&M,SEC,34,Houston,2019,220,7,6,Cullen Gillaspia,Running Back,73.0,234.0,,,,Katy,TX,USA,29.7857853,-95.8243956,48157.0
+3126245.0,103776,2655,Tulane,American Athletic,5,Cleveland,2019,221,7,7,Donnie Lewis Jr.,Cornerback,72.0,190.0,366.0,42.0,31.0,Baton Rouge,LA,USA,30.4459596,-91.18738,22033.0
+3919104.0,103885,2226,Florida Atlantic,Conference USA,3,Chicago,2019,222,7,8,Kerrith Whyte Jr.,Running Back,70.0,197.0,262.0,24.0,46.0,Loxahatchee,FL,USA,26.8116033,-80.1567274,12099.0
+3121034.0,103770,2571,South Dakota State,MVFC,4,Cincinnati,2019,223,7,9,Jordan Brown,Cornerback,72.0,201.0,194.0,23.0,56.0,Llano,TX,USA,30.752919,-98.6754992,48299.0
+4035014.0,103867,61,Georgia,SEC,8,Detroit,2019,224,7,10,Isaac Nauta,Tight End,75.0,244.0,191.0,14.0,57.0,Buford,GA,USA,34.1206564,-84.0043513,13135.0
+3957672.0,103888,2448,North Carolina A&T,MEAC,2,Buffalo,2019,225,7,11,Darryl Johnson Jr.,Outside Linebacker,78.0,253.0,279.0,24.0,42.0,Fairfield,TX,USA,31.7244035,-96.1648789,48161.0
+3116431.0,104007,2628,TCU,Big 12,9,Green Bay,2019,226,7,12,Ty Summers,Inside Linebacker,73.0,241.0,284.0,18.0,41.0,San Antonio,TX,USA,29.4246002,-98.4951405,48029.0
+3120508.0,103699,256,James Madison,CAA,28,Washington,2019,227,7,13,Jimmy Moreland,Cornerback,70.0,179.0,290.0,34.0,40.0,Llano,TX,USA,30.752919,-98.6754992,48299.0
+3122818.0,103656,103,Boston College,ACC,2,Buffalo,2019,228,7,14,Tommy Sweeney,Tight End,77.0,251.0,151.0,10.0,63.0,Ramsey,NJ,USA,41.0573188,-74.1409771,34003.0
+3910660.0,104055,12,Arizona,Pac-12,8,Detroit,2019,229,7,15,PJ Johnson,Defensive Tackle,76.0,334.0,,,,Sacramento,CA,USA,38.5815719,-121.4943996,6067.0
+3933407.0,104056,2504,Prairie View A&M,SWAC,13,Las Vegas,2019,230,7,16,Quinton Bell,Defensive End,76.0,219.0,,,,Lubbock,TX,USA,33.5635206,-101.879336,48303.0
+3932433.0,103698,87,Notre Dame,FBS Independents,18,New Orleans,2019,231,7,17,Alize Mack,Tight End,76.0,249.0,204.0,16.0,55.0,Las Vegas,NV,USA,36.1672559,-115.1485163,32003.0
+3915238.0,104057,96,Kentucky,SEC,19,New York,2019,232,7,18,George Asafo-Adjei,Offensive Guard,76.0,305.0,,,,West Chester,OH,USA,39.3303357,-84.408275,39017.0
+3843217.0,104058,2,Auburn,SEC,15,Miami,2019,233,7,19,Chandler Cox,Fullback,72.0,238.0,,,,Apopka,FL,USA,28.6779683,-81.5115214,12095.0
+3886818.0,103633,264,Washington,Pac-12,15,Miami,2019,234,7,20,Myles Gaskin,Running Back,69.0,205.0,236.0,19.0,50.0,Lynnwood,WA,USA,47.8278656,-122.3053932,53061.0
+3121587.0,103600,2,Auburn,SEC,30,Jacksonville,2019,235,7,21,Dontavius Russell,Defensive Tackle,75.0,319.0,133.0,11.0,66.0,Carrollton,GA,USA,33.5801103,-85.0766113,13045.0
+3933064.0,103882,62,Hawai'i,Mountain West,26,Seattle,2019,236,7,22,John Ursua,Wide Receiver,69.0,178.0,335.0,45.0,35.0,Kailua-Kona,HI,USA,19.641941,-155.996933,15001.0
+3915174.0,103594,61,Georgia,SEC,29,Carolina,2019,237,7,23,Terry Godwin,Wide Receiver,71.0,184.0,274.0,35.0,44.0,Hogansville,GA,USA,33.1731769,-84.914936,13285.0
+4408864.0,104059,2673,Valdosta State,Gulf South,3,Chicago,2019,238,7,24,Stephen Denmark,Cornerback,75.0,212.0,,,,,,,,,
+4038938.0,103887,2483,Oregon,Pac-12,16,Minnesota,2019,239,7,25,Dillon Mitchell,Wide Receiver,73.0,197.0,188.0,25.0,58.0,Memphis,TN,USA,35.1490215,-90.0516285,47157.0
+3122865.0,103669,254,Utah,Pac-12,11,Indianapolis,2019,240,7,26,Jackson Barton,Offensive Tackle,79.0,310.0,233.0,23.0,50.0,Salt Lake City ,UT,USA,40.7596198,-111.8867975,49035.0
+3122692.0,103583,2483,Oregon,Pac-12,6,Dallas,2019,241,7,27,Jalen Jelks,Defensive End,77.0,256.0,113.0,13.0,69.0,Phoenix,AZ,USA,33.4484367,-112.0741417,4013.0
+3139036.0,104060,2132,Cincinnati,American Athletic,24,Los Angeles,2019,242,7,28,Cortez Broughton,Defensive Tackle,74.0,293.0,,,,Warner Robins,GA,USA,32.6200973,-83.606568,13153.0
+3116179.0,104061,213,Penn State,Big Ten,14,Los Angeles,2019,243,7,29,Nick Scott,Safety,71.0,201.0,,,,Fairfax,VA,USA,38.8462236,-77.3063733,51600.0
+3124890.0,104062,70,Idaho,Big Sky,18,New Orleans,2019,244,7,30,Kaden Elliss,Outside Linebacker,74.0,238.0,,,,Chicago,IL,USA,41.8755616,-87.6244212,17031.0
+3124015.0,103688,183,Syracuse,ACC,19,New York,2019,245,7,31,Chris Slayton,Defensive Tackle,76.0,307.0,254.0,23.0,47.0,University Park,IL,USA,41.4400344,-87.683377,17197.0
+3691031.0,103801,145,Ole Miss,SEC,11,Indianapolis,2019,246,7,32,Javon Patterson,Center,75.0,307.0,238.0,5.0,49.0,Petal,MS,USA,31.3465627,-89.2600605,28035.0
+3917067.0,103769,36,Colorado State,Mountain West,16,Minnesota,2019,247,7,33,Olabisi Johnson,Wide Receiver,73.0,204.0,224.0,28.0,52.0,Lakewood,CO,USA,39.6311085,-105.11005818223016,8059.0
+3120434.0,104063,2415,Morgan State,MEAC,22,Arizona,2019,248,7,34,Joshua Miles,Offensive Tackle,77.0,314.0,,,,Baltimore,MD,USA,39.2908816,-76.610759,24510.0
+3138765.0,103928,218,Temple,American Athletic,22,Arizona,2019,249,7,35,Michael Dogbe,Defensive End,75.0,284.0,370.0,27.0,31.0,Morris Plains,NJ,USA,40.8364845,-74.47818854051508,34027.0
+4038201.0,104064,2005,Air Force,Mountain West,16,Minnesota,2019,250,7,36,Austin Cutting,Long Snapper,75.0,245.0,,,,Keller,TX,USA,32.9299655,-97.2271249,48439.0
+3139453.0,103653,2641,Texas Tech,Big 12,14,Los Angeles,2019,251,7,37,Dakota Allen,Inside Linebacker,73.0,232.0,207.0,12.0,54.0,Humble,TX,USA,29.9988312,-95.2621553,48201.0
+3128743.0,104011,145,Ole Miss,SEC,17,New England,2019,252,7,38,Ken Webster,Cornerback,71.0,203.0,322.0,39.0,36.0,Decatur,GA,USA,33.7737582,-84.296069,13089.0
+3122420.0,103863,197,Oklahoma State,Big 12,28,Washington,2019,253,7,39,Jordan Brailford,Defensive End,75.0,252.0,244.0,22.0,49.0,Tulsa,OK,USA,36.1556805,-95.9929113,40143.0
+3932936.0,103591,26,UCLA,Pac-12,22,Arizona,2019,254,7,40,Caleb Wilson,Tight End,76.0,240.0,182.0,13.0,59.0,Gardena,CA,USA,33.8963593,-118.3053037,6037.0
+3915511.0,104204,99,LSU,SEC,4,Cincinnati,2020,1,1,1,Joe Burrow,Quarterback,76.0,221.0,2.0,1.0,94.0,The Plains,OH,USA,39.3700911,-82.1323674,39009.0
+4241986.0,104097,194,Ohio State,Big Ten,28,Washington,2020,2,1,2,Chase Young,Defensive End,77.0,264.0,1.0,1.0,95.0,Hyattsville,MD,USA,38.9529442,-76.9408647,24033.0
+4241984.0,104096,194,Ohio State,Big Ten,8,Detroit,2020,3,1,3,Jeff Okudah,Cornerback,73.0,205.0,5.0,1.0,94.0,Grand Prairie,TX,USA,32.657368000000005,-97.02846624175038,48113.0
+4259566.0,104112,61,Georgia,SEC,19,New York,2020,4,1,4,Andrew Thomas,Offensive Tackle,77.0,315.0,16.0,4.0,91.0,Lithonia,GA,USA,33.7123305,-84.1051939,13089.0
+4241479.0,104093,333,Alabama,SEC,15,Miami,2020,5,1,5,Tua Tagovailoa,Quarterback,72.0,217.0,7.0,2.0,93.0,Ewa Beach,HI,USA,21.315603,-158.008804,15003.0
+4038941.0,104099,2483,Oregon,Pac-12,24,Los Angeles,2020,6,1,6,Justin Herbert,Quarterback,78.0,236.0,24.0,4.0,89.0,Eugene,OR,USA,44.0505054,-123.0950506,41039.0
+4035495.0,104098,2,Auburn,SEC,29,Carolina,2020,7,1,7,Derrick Brown,Defensive Tackle,77.0,326.0,3.0,1.0,94.0,Sugar Hill,GA,USA,34.1064895,-84.0335197,13135.0
+4035462.0,104106,228,Clemson,ACC,22,Arizona,2020,8,1,8,Isaiah Simmons,Outside Linebacker,76.0,238.0,4.0,1.0,94.0,Olathe,KS,USA,38.8838856,-94.81887,20091.0
+4240596.0,104104,57,Florida,SEC,30,Jacksonville,2020,9,1,9,CJ Henderson,Cornerback,73.0,204.0,13.0,2.0,91.0,Miami,FL,USA,25.7742658,-80.1936589,12086.0
+4241482.0,104425,333,Alabama,SEC,5,Cleveland,2020,10,1,10,Jedrick Wills Jr.,Offensive Tackle,76.0,312.0,8.0,1.0,93.0,Lexington,KY,USA,38.0464066,-84.4970393,21067.0
+4240090.0,104126,97,Louisville,ACC,20,New York,2020,11,1,11,Mekhi Becton,Offensive Tackle,79.0,364.0,12.0,2.0,92.0,Highland Springs,VA,USA,37.5460121,-77.3278441,51087.0
+4241475.0,104103,333,Alabama,SEC,13,Las Vegas,2020,12,1,12,Henry Ruggs III,Wide Receiver,71.0,188.0,11.0,3.0,92.0,Montgomery,AL,USA,32.3669656,-86.3006485,1101.0
+4240589.0,104122,2294,Iowa,Big Ten,27,Tampa Bay,2020,13,1,13,Tristan Wirfs,Offensive Tackle,77.0,320.0,15.0,3.0,91.0,Mount Vernon,IA,USA,41.9222443,-91.4171209,19113.0
+4259491.0,104120,2579,South Carolina,SEC,25,San Francisco,2020,14,1,14,Javon Kinlaw,Defensive Tackle,77.0,324.0,9.0,2.0,92.0,Charleston,SC,USA,32.7876012,-79.9402728,45019.0
+4241463.0,104094,333,Alabama,SEC,7,Denver,2020,15,1,15,Jerry Jeudy,Wide Receiver,73.0,193.0,6.0,1.0,94.0,Deerfield Beach,FL,USA,26.318342,-80.0996306,12011.0
+4239995.0,104476,228,Clemson,ACC,1,Atlanta,2020,16,1,16,A.J. Terrell,Cornerback,73.0,195.0,51.0,6.0,83.0,Atlanta,GA,USA,33.7490987,-84.3901849,13121.0
+4241389.0,104100,201,Oklahoma,Big 12,6,Dallas,2020,17,1,17,CeeDee Lamb,Wide Receiver,74.0,198.0,10.0,2.0,92.0,Richmond,TX,USA,29.5821811,-95.7607832,48157.0
+4271632.0,104433,30,USC,Pac-12,15,Miami,2020,18,1,18,Austin Jackson,Offensive Tackle,77.0,322.0,48.0,8.0,84.0,Phoenix,AZ,USA,33.4484367,-112.0741417,4013.0
+3915506.0,104223,194,Ohio State,Big Ten,13,Las Vegas,2020,19,1,19,Damon Arnette,Cornerback,72.0,195.0,58.0,7.0,80.0,Fort Lauderdale,FL,USA,26.1223084,-80.1433786,12011.0
+4242205.0,104427,99,LSU,SEC,30,Jacksonville,2020,20,1,20,K'Lavon Chaisson,Outside Linebacker,75.0,254.0,19.0,2.0,90.0,Houston,TX,USA,29.7589382,-95.3676974,48201.0
+4241802.0,104117,2628,TCU,Big 12,21,Philadelphia,2020,21,1,21,Jalen Reagor,Wide Receiver,71.0,206.0,53.0,9.0,82.0,Waxahachie,TX,USA,32.3944908,-96.8439365,48139.0
+4262921.0,104360,99,LSU,SEC,16,Minnesota,2020,22,1,22,Justin Jefferson,Wide Receiver,73.0,202.0,14.0,4.0,91.0,Saint Rose,LA,USA,38.6820405,-89.55343803342507,17027.0
+4241394.0,104429,201,Oklahoma,Big 12,24,Los Angeles,2020,23,1,23,Kenneth Murray,Inside Linebacker,75.0,241.0,26.0,2.0,89.0,Missouri City,TX,USA,29.6185669,-95.5377215,48157.0
+4258199.0,104435,130,Michigan,Big Ten,18,New Orleans,2020,24,1,24,Cesar Ruiz,Center,75.0,307.0,37.0,1.0,86.0,Camden,NJ,USA,39.9448402,-75.1198911,34007.0
+4360438.0,104224,9,Arizona State,Pac-12,25,San Francisco,2020,25,1,25,Brandon Aiyuk,Wide Receiver,72.0,205.0,23.0,5.0,90.0,Rocklin,CA,USA,38.7907339,-121.2357828,6061.0
+4036378.0,104199,328,Utah State,Mountain West,9,Green Bay,2020,26,1,26,Jordan Love,Quarterback,76.0,224.0,20.0,3.0,90.0,Bakersfield,CA,USA,35.3738712,-119.0194639,6029.0
+4043130.0,104385,2641,Texas Tech,Big 12,26,Seattle,2020,27,1,27,Jordyn Brooks,Outside Linebacker,72.0,240.0,92.0,6.0,70.0,Houston,TX,USA,29.7589382,-95.3676974,48201.0
+4242207.0,104432,99,LSU,SEC,33,Baltimore,2020,28,1,28,Patrick Queen,Inside Linebacker,72.0,229.0,21.0,1.0,90.0,Ventress,LA,USA,30.6818525,-91.4081679,22077.0
+4259568.0,104436,61,Georgia,SEC,10,Tennessee,2020,29,1,29,Isaiah Wilson,Offensive Tackle,79.0,350.0,31.0,6.0,87.0,Brooklyn,NY,USA,40.6501038,-73.9495823,36047.0
+4242516.0,104428,2,Auburn,SEC,15,Miami,2020,30,1,30,Noah Igbinoghene,Cornerback,70.0,198.0,60.0,8.0,79.0,Trussville,AL,USA,33.626629,-86.5549335251678,1073.0
+3676819.0,104219,2628,TCU,Big 12,16,Minnesota,2020,31,1,31,Jeff Gladney,Cornerback,70.0,191.0,43.0,4.0,85.0,New Boston,TX,USA,33.4598415,-94.4154787,48037.0
+4242214.0,104430,99,LSU,SEC,12,Kansas City,2020,32,1,32,Clyde Edwards-Helaire,Running Back,67.0,207.0,28.0,3.0,88.0,Baton Rouge,LA,USA,30.4459596,-91.18738,22033.0
+4239993.0,104116,228,Clemson,ACC,4,Cincinnati,2020,33,2,1,Tee Higgins,Wide Receiver,76.0,216.0,30.0,6.0,88.0,Oak Ridge,TN,USA,36.0103562,-84.2696449,47001.0
+4035687.0,104217,30,USC,Pac-12,11,Indianapolis,2020,34,2,2,Michael Pittman Jr.,Wide Receiver,76.0,223.0,42.0,7.0,86.0,Woodland Hills,CA,USA,34.1684364,-118.6058382,6037.0
+4259545.0,104118,61,Georgia,SEC,8,Detroit,2020,35,2,3,D'Andre Swift,Running Back,68.0,212.0,18.0,1.0,91.0,Philadelphia,PA,USA,39.9527237,-75.1635262,42101.0
+4241470.0,104198,333,Alabama,SEC,19,New York,2020,36,2,4,Xavier McKinney,Safety,72.0,201.0,17.0,1.0,91.0,Roswell,GA,USA,34.02332,-84.360022,13121.0
+4401811.0,104220,2331,Lenoir-Rhyne,South Atlantic,17,New England,2020,37,2,5,Kyle Dugger,Safety,73.0,217.0,65.0,5.0,76.0,,,,,,
+4259594.0,104127,213,Penn State,Big Ten,29,Carolina,2020,38,2,6,Yetur Gross-Matos,Defensive End,77.0,266.0,33.0,4.0,87.0,Spotsylvania,VA,USA,38.200965,-77.589154,51177.0
+3917592.0,104401,309,Louisiana,Sun Belt,15,Miami,2020,39,2,7,Robert Hunt,Offensive Guard,77.0,323.0,59.0,1.0,79.0,Burkeville,TX,USA,30.9999178,-93.6679539,48351.0
+4038557.0,104426,2628,TCU,Big 12,34,Houston,2020,40,2,8,Ross Blacklock,Defensive Tackle,75.0,290.0,25.0,3.0,89.0,Missouri City,TX,USA,29.6185669,-95.5377215,48157.0
+4242335.0,104139,275,Wisconsin,Big Ten,11,Indianapolis,2020,41,2,9,Jonathan Taylor,Running Back,70.0,226.0,34.0,4.0,87.0,Salem,NJ,USA,39.5717796,-75.4671423,34033.0
+4243160.0,104108,38,Colorado,Pac-12,30,Jacksonville,2020,42,2,10,Laviska Shenault Jr.,Wide Receiver,73.0,227.0,61.0,10.0,79.0,Desoto,TX,USA,32.6061241,-96.865612653687,48113.0
+4258595.0,104431,87,Notre Dame,FBS Independents,3,Chicago,2020,43,2,11,Cole Kmet,Tight End,78.0,262.0,45.0,1.0,85.0,Lake Barrington,IL,USA,42.2125241,-88.1525798,17097.0
+4242208.0,104095,99,LSU,SEC,5,Cleveland,2020,44,2,12,Grant Delpit,Safety,75.0,213.0,35.0,3.0,87.0,Houston,TX,USA,29.7589382,-95.3676974,48201.0
+4034790.0,104481,135,Minnesota,Big Ten,27,Tampa Bay,2020,45,2,13,Antoine Winfield Jr.,Safety,69.0,203.0,29.0,2.0,88.0,The Woodlands,TX,USA,30.1734194,-95.504686,48339.0
+4240380.0,104361,213,Penn State,Big Ten,7,Denver,2020,46,2,14,KJ Hamler,Wide Receiver,69.0,176.0,74.0,12.0,75.0,Pontiac,MI,USA,42.6389216,-83.2910468,26125.0
+4035494.0,104163,2,Auburn,SEC,1,Atlanta,2020,47,2,15,Marlon Davidson,Defensive Tackle,75.0,303.0,52.0,5.0,82.0,Greenville,AL,USA,31.8295972,-86.6177517,1013.0
+3915396.0,104203,2633,Tennessee,SEC,26,Seattle,2020,48,2,16,Darrell Taylor,Defensive End,76.0,267.0,70.0,7.0,75.0,Hopewell,VA,USA,36.7468036,-79.4639158,51143.0
+4046692.0,104180,87,Notre Dame,FBS Independents,23,Pittsburgh,2020,49,2,17,Chase Claypool,Wide Receiver,76.0,238.0,62.0,11.0,78.0,Abbotsford,BC,CAN,,,
+4243253.0,104210,254,Utah,Pac-12,3,Chicago,2020,50,2,18,Jaylon Johnson,Cornerback,72.0,193.0,44.0,5.0,85.0,Fresno,CA,USA,36.7295295,-119.70886126075588,6019.0
+4040966.0,104110,333,Alabama,SEC,6,Dallas,2020,51,2,19,Trevon Diggs,Cornerback,73.0,205.0,39.0,3.0,86.0,Gaithersburg,MD,USA,39.1434406,-77.2013705,24031.0
+4240021.0,104135,52,Florida State,ACC,14,Los Angeles,2020,52,2,20,Cam Akers,Running Back,70.0,217.0,55.0,5.0,81.0,Clinton,MS,USA,32.3415342,-90.3217585,28049.0
+4040715.0,104214,201,Oklahoma,Big 12,21,Philadelphia,2020,53,2,21,Jalen Hurts,Quarterback,73.0,222.0,94.0,7.0,70.0,Channelview,TX,USA,29.7760599,-95.1146533,48201.0
+4240585.0,104101,2294,Iowa,Big Ten,2,Buffalo,2020,54,2,22,AJ Epenesa,Defensive End,77.0,275.0,32.0,3.0,87.0,Glen Carbon,IL,USA,38.7483814,-89.983158,17119.0
+4241985.0,104134,194,Ohio State,Big Ten,33,Baltimore,2020,55,2,23,J.K. Dobbins,Running Back,70.0,209.0,27.0,2.0,89.0,La Grange,TX,USA,29.9080038,-96.8730449,48149.0
+4040965.0,104111,333,Alabama,SEC,15,Miami,2020,56,2,24,Raekwon Davis,Defensive Tackle,78.0,311.0,105.0,8.0,68.0,Meridian,MS,USA,32.3643098,-88.703656,28075.0
+3930066.0,104391,57,Florida,SEC,14,Los Angeles,2020,57,2,25,Van Jefferson,Wide Receiver,74.0,200.0,113.0,18.0,67.0,Brentwood,TN,USA,36.0325687,-86.7825235,47187.0
+4048231.0,104442,68,Boise State,Mountain West,16,Minnesota,2020,58,2,26,Ezra Cleveland,Offensive Tackle,78.0,311.0,22.0,5.0,90.0,Spanaway,WA,USA,47.0979462,-122.4243422,53053.0
+4035403.0,104228,239,Baylor,Big 12,20,New York,2020,59,2,27,Denzel Mims,Wide Receiver,75.0,207.0,46.0,8.0,85.0,Daingerfield,TX,USA,33.0318031,-94.7219895,48343.0
+4046528.0,104162,130,Michigan,Big Ten,17,New England,2020,60,2,28,Josh Uche,Defensive End,73.0,245.0,95.0,10.0,70.0,Miami,FL,USA,25.7742658,-80.1936589,12086.0
+4035433.0,104102,99,LSU,SEC,10,Tennessee,2020,61,2,29,Kristian Fulton,Cornerback,72.0,197.0,80.0,10.0,74.0,New Orleans,LA,USA,29.9499323,-90.0701156,22071.0
+4239934.0,104155,103,Boston College,ACC,9,Green Bay,2020,62,2,30,AJ Dillon,Running Back,72.0,247.0,90.0,8.0,71.0,New London,CT,USA,41.3556187,-72.0997804,9011.0
+4259804.0,104526,344,Mississippi State,SEC,12,Kansas City,2020,63,2,31,Willie Gay Jr.,Inside Linebacker,73.0,243.0,163.0,6.0,55.0,Starkville,MS,USA,33.4503998,-88.8183872,28105.0
+4043169.0,104397,79,Southern Illinois,MVFC,29,Carolina,2020,64,2,32,Jeremy Chinn,Safety,75.0,221.0,50.0,4.0,83.0,Krum,TX,USA,33.2618362,-97.2374668,48121.0
+3918330.0,104392,2751,Wyoming,Mountain West,4,Cincinnati,2020,65,3,1,Logan Wilson,Inside Linebacker,74.0,241.0,47.0,3.0,84.0,Casper,WY,USA,42.866632,-106.313081,56025.0
+4360294.0,104491,235,Memphis,American Athletic,28,Washington,2020,66,3,2,Antonio Gibson,Wide Receiver,72.0,228.0,119.0,10.0,65.0,Stockbridge,GA,USA,33.5442781,-84.2338093,13151.0
+4046690.0,104109,87,Notre Dame,FBS Independents,8,Detroit,2020,67,3,3,Julian Okwara,Outside Linebacker,76.0,252.0,64.0,6.0,77.0,Charlotte,NC,USA,35.2272,-80.843083,37119.0
+3858271.0,104200,25,California,Pac-12,20,New York,2020,68,3,4,Ashtyn Davis,Safety,73.0,202.0,71.0,6.0,75.0,Santa Cruz,CA,USA,36.9749416,-122.0285259,6087.0
+4362647.0,104517,99,LSU,SEC,26,Seattle,2020,69,3,5,Damien Lewis,Offensive Guard,74.0,327.0,79.0,2.0,74.0,Canton,MS,USA,32.6126381,-90.0367512,28089.0
+4039059.0,21496,251,Texas,Big 12,15,Miami,2020,70,3,6,Brandon Jones,Safety,71.0,198.0,111.0,8.0,68.0,Nacogdoches,TX,USA,31.6035129,-94.6554874,48347.0
+4035245.0,104434,245,Texas A&M,SEC,33,Baltimore,2020,71,3,7,Justin Madubuike,Defensive Tackle,75.0,293.0,40.0,4.0,86.0,Mckinney,TX,USA,33.1976496,-96.6154471,48085.0
+3914630.0,104396,248,Houston,American Athletic,22,Arizona,2020,72,3,8,Josh Jones,Offensive Tackle,77.0,319.0,38.0,7.0,86.0,Richmond,TX,USA,29.5821811,-95.7607832,48157.0
+3915520.0,104501,194,Ohio State,Big Ten,30,Jacksonville,2020,73,3,9,Davon Hamilton,Defensive Tackle,76.0,320.0,138.0,10.0,60.0,Pickerington,OH,USA,39.8962773,-82.77319049748806,39045.0
+3917657.0,104221,275,Wisconsin,Big Ten,18,New Orleans,2020,74,3,10,Zack Baun,Outside Linebacker,74.0,238.0,36.0,2.0,86.0,Brown Deer,WI,USA,43.1744352,-87.972722,55079.0
+3930040.0,104492,194,Ohio State,Big Ten,8,Detroit,2020,75,3,11,Jonah Jackson,Offensive Guard,76.0,306.0,109.0,3.0,68.0,Media,PA,USA,39.9167783,-75.387693,42045.0
+3917612.0,104144,238,Vanderbilt,SEC,27,Tampa Bay,2020,76,3,12,Ke'Shawn Vaughn,Running Back,70.0,214.0,99.0,9.0,70.0,Antioch,TN,USA,36.0806394,-83.7799037,47093.0
+3894830.0,104507,2294,Iowa,Big Ten,7,Denver,2020,77,3,13,Michael Ojemudia,Cornerback,73.0,200.0,199.0,23.0,48.0,Farmington Hills,MI,USA,42.4853125,-83.3771553,26125.0
+4044138.0,104437,218,Temple,American Athletic,1,Atlanta,2020,78,3,14,Matt Hennessy,Center,76.0,307.0,93.0,4.0,70.0,Bardonia,NY,USA,41.114325,-73.98188567704591,36087.0
+3915123.0,104130,57,Florida,SEC,20,New York,2020,79,3,15,Jabari Zuniga,Defensive End,75.0,264.0,76.0,8.0,74.0,Marietta,GA,USA,33.9528472,-84.5496148,13067.0
+4259979.0,104441,96,Kentucky,SEC,13,Las Vegas,2020,80,3,16,Lynn Bowden Jr.,Wide Receiver,71.0,204.0,144.0,24.0,60.0,Youngstown,OH,USA,41.1035786,-80.6520161,39099.0
+4038818.0,20394,2579,South Carolina,SEC,13,Las Vegas,2020,81,3,17,Bryan Edwards,Wide Receiver,75.0,212.0,100.0,16.0,69.0,Conway,SC,USA,33.8360035,-79.0478143,45051.0
+3892883.0,104375,201,Oklahoma,Big 12,6,Dallas,2020,82,3,18,Neville Gallimore,Defensive Tackle,74.0,304.0,49.0,6.0,84.0,St. Catharines,ON,CAN,,,
+4035448.0,104212,99,LSU,SEC,7,Denver,2020,83,3,19,Lloyd Cushenberry III,Center,75.0,312.0,66.0,2.0,75.0,Carville,LA,USA,39.0492786,-76.0038302,24035.0
+4040968.0,104113,333,Alabama,SEC,14,Los Angeles,2020,84,3,20,Terrell Lewis,Outside Linebacker,77.0,262.0,67.0,3.0,75.0,Washington,DC,USA,38.8949855,-77.0365708,11001.0
+4035661.0,104407,254,Utah,Pac-12,11,Indianapolis,2020,85,3,21,Julian Blackmon,Safety,72.0,187.0,193.0,12.0,50.0,Layton,UT,USA,41.0751048,-111.9741925,49011.0
+4035676.0,104222,254,Utah,Pac-12,2,Buffalo,2020,86,3,22,Zack Moss,Running Back,69.0,223.0,57.0,6.0,80.0,Hialeah Gardens,FL,USA,25.8906709,-80.36417428815967,12086.0
+3925350.0,104129,333,Alabama,SEC,17,New England,2020,87,3,23,Anfernee Jennings,Outside Linebacker,74.0,256.0,101.0,7.0,69.0,Dadeville,AL,USA,32.831238,-85.7635692,1123.0
+4039052.0,104215,142,Missouri,SEC,5,Cleveland,2020,88,3,24,Jordan Elliott,Defensive Tackle,76.0,302.0,41.0,5.0,86.0,Houston,TX,USA,29.7589382,-95.3676974,48201.0
+4035385.0,104446,344,Mississippi State,SEC,16,Minnesota,2020,89,3,25,Cameron Dantzler,Cornerback,74.0,188.0,96.0,12.0,70.0,Hammond,LA,USA,30.5043583,-90.4611995,18089.0
+3916409.0,104216,57,Florida,SEC,34,Houston,2020,90,3,26,Jonathan Greenard,Outside Linebacker,75.0,263.0,122.0,15.0,65.0,Hiram,GA,USA,33.8756601,-84.7621592,13223.0
+4046522.0,104461,26,UCLA,Pac-12,17,New England,2020,91,3,27,Devin Asiasi,Tight End,75.0,257.0,69.0,3.0,75.0,Shoreview,CA,USA,37.0449417,-122.0319311,6087.0
+4039050.0,104227,251,Texas,Big 12,33,Baltimore,2020,92,3,28,Devin Duvernay,Wide Receiver,71.0,200.0,81.0,13.0,74.0,Sachse,TX,USA,32.9762327,-96.5952703,48113.0
+4036431.0,104463,2026,App State,Sun Belt,10,Tennessee,2020,93,3,29,Darrynton Evans,Running Back,70.0,203.0,137.0,11.0,60.0,Oak Hill,FL,USA,28.8644338,-80.8544975,12127.0
+3914151.0,104674,2132,Cincinnati,American Athletic,9,Green Bay,2020,94,3,30,Josiah Deguara,Tight End,74.0,242.0,,,,Folsom,CA,USA,38.6779591,-121.1760583,6067.0
+4035566.0,104675,8,Arkansas,SEC,7,Denver,2020,95,3,31,McTelvin Agim,Defensive Tackle,75.0,309.0,,,,Texarkana,TX,USA,33.44628645,-94.07638067493534,48037.0
+4038552.0,104105,2628,TCU,Big 12,12,Kansas City,2020,96,3,32,Lucas Niang,Offensive Tackle,78.0,315.0,82.0,10.0,74.0,New Canaan,CT,USA,41.146763,-73.4948446,9001.0
+4242206.0,104520,99,LSU,SEC,5,Cleveland,2020,97,3,33,Jacob Phillips,Inside Linebacker,75.0,229.0,121.0,4.0,65.0,Nashville,TN,USA,36.1622296,-86.7743531,47037.0
+4040615.0,104136,194,Ohio State,Big Ten,33,Baltimore,2020,98,3,34,Malik Harrison,Inside Linebacker,75.0,247.0,139.0,8.0,60.0,Columbus,OH,USA,39.9622601,-83.0007065,39049.0
+3921936.0,104383,41,UConn,American Athletic,19,New York,2020,99,3,35,Matt Peart,Offensive Tackle,79.0,318.0,130.0,15.0,62.0,Kingston,,Jamaica,,,
+3728263.0,104510,228,Clemson,ACC,13,Las Vegas,2020,100,3,36,Tanner Muse,Safety,74.0,227.0,134.0,10.0,61.0,Belmont,NC,USA,35.2438272,-81.0377322,37071.0
+4240861.0,104623,259,Virginia Tech,ACC,17,New England,2020,101,3,37,Dalton Keene,Tight End,76.0,253.0,197.0,13.0,49.0,Littleton,CO,USA,39.613321,-105.0166498,8005.0
+4037333.0,104659,2429,Charlotte,Conference USA,23,Pittsburgh,2020,102,3,38,Alex Highsmith,Outside Linebacker,75.0,248.0,265.0,25.0,36.0,Wilmington,NC,USA,34.2257282,-77.9447107,37129.0
+4360645.0,104381,38,Colorado,Pac-12,21,Philadelphia,2020,103,3,39,Davion Taylor,Outside Linebacker,73.0,228.0,165.0,11.0,55.0,Magnolia,MS,USA,31.1432328,-90.4587081,28113.0
+4035663.0,104406,254,Utah,Pac-12,14,Los Angeles,2020,104,3,40,Terrell Burgess,Safety,71.0,202.0,75.0,7.0,74.0,San Marcos,CA,USA,33.1433723,-117.1661449,6073.0
+3911853.0,104395,2168,Dayton,Pioneer,18,New Orleans,2020,105,3,41,Adam Trautman,Tight End,77.0,255.0,63.0,2.0,77.0,Williamsburg,MI,USA,41.661228,-92.0095064,19095.0
+4242247.0,104653,344,Mississippi State,SEC,33,Baltimore,2020,106,3,42,Tyre Phillips,Offensive Tackle,77.0,331.0,235.0,21.0,40.0,Grenada,MS,USA,33.7690049,-89.8084192,28043.0
+3917142.0,104378,2026,App State,Sun Belt,4,Cincinnati,2020,107,4,1,Akeem Davis-Gaither,Outside Linebacker,74.0,224.0,85.0,5.0,71.0,Thomasville,NC,USA,35.8831786,-80.081817,37057.0
+4242230.0,104477,99,LSU,SEC,28,Washington,2020,108,4,2,Saahdiq Charles,Offensive Tackle,76.0,321.0,84.0,11.0,72.0,Jackson,MS,USA,32.2990384,-90.1847691,28049.0
+4035479.0,104209,228,Clemson,ACC,13,Las Vegas,2020,109,4,3,John Simpson,Offensive Guard,76.0,321.0,188.0,10.0,50.0,North Charleston,SC,USA,32.9131295,-80.0629981965219,45019.0
+4242973.0,104208,26,UCLA,Pac-12,19,New York,2020,110,4,4,Darnay Holmes,Cornerback,70.0,195.0,123.0,15.0,65.0,Pasadena,CA,USA,34.1476452,-118.1444779,6037.0
+4035008.0,104500,61,Georgia,SEC,15,Miami,2020,111,4,5,Solomon Kindley,Offensive Guard,75.0,337.0,161.0,9.0,56.0,Jacksonville,FL,USA,30.3321838,-81.655651,12031.0
+3910544.0,104536,26,UCLA,Pac-12,24,Los Angeles,2020,112,4,6,Joshua Kelley,Running Back,71.0,212.0,166.0,13.0,55.0,Lancaster,CA,USA,34.6981064,-118.1366153,6037.0
+4046679.0,104171,87,Notre Dame,FBS Independents,29,Carolina,2020,113,4,7,Troy Pride Jr.,Cornerback,72.0,193.0,103.0,13.0,69.0,Greer,SC,USA,34.9381361,-82.2272119,45045.0
+4035666.0,104384,254,Utah,Pac-12,22,Arizona,2020,114,4,8,Leki Fotu,Defensive Tackle,77.0,330.0,151.0,11.0,58.0,West Valley City,UT,USA,40.696629,-111.9867271,49035.0
+4040774.0,104161,2226,Florida Atlantic,Conference USA,5,Cleveland,2020,115,4,9,Harrison Bryant,Tight End,77.0,243.0,77.0,4.0,74.0,Gray,GA,USA,33.0095802,-83.5337816,13169.0
+4611506.0,104409,2600,Saint John's (MN),Minnesota,30,Jacksonville,2020,116,4,10,Ben Bartch,Offensive Tackle,78.0,309.0,120.0,4.0,65.0,,,,,,
+4038849.0,104142,2579,South Carolina,SEC,16,Minnesota,2020,117,4,11,D.J. Wonnum,Defensive End,77.0,258.0,114.0,13.0,67.0,Stone Mountain,GA,USA,33.8080924,-84.1706273,13089.0
+4035115.0,104131,142,Missouri,SEC,7,Denver,2020,118,4,12,Albert Okwuegbunam,Tight End,78.0,258.0,97.0,6.0,70.0,Springfield,IL,USA,39.7990175,-89.6439575,17167.0
+4243009.0,104521,278,Fresno State,Mountain West,1,Atlanta,2020,119,4,13,Mykal Walker,Inside Linebacker,75.0,230.0,230.0,10.0,41.0,Sacramento,CA,USA,38.5815719,-121.4943996,6067.0
+4034952.0,104226,57,Florida,SEC,20,New York,2020,120,4,14,La'Mical Perine,Running Back,71.0,216.0,72.0,7.0,75.0,Mobile,AL,USA,30.6943566,-88.0430541,1097.0
+3915252.0,104207,96,Kentucky,SEC,8,Detroit,2020,121,4,15,Logan Stenberg,Offensive Guard,78.0,317.0,143.0,7.0,60.0,Madison,AL,USA,34.6928726,-86.7511427,1089.0
+4035003.0,104196,264,Washington,Pac-12,11,Indianapolis,2020,122,4,16,Jacob Eason,Quarterback,78.0,231.0,56.0,6.0,81.0,Lake Stevens,WA,USA,48.0197794,-122.0660914,53061.0
+3917006.0,104676,202,Tulsa,American Athletic,6,Dallas,2020,123,4,17,Reggie Robinson II,Cornerback,73.0,205.0,,,,Cleburne,TX,USA,32.3476438,-97.3866837,48251.0
+4241941.0,104443,120,Maryland,Big Ten,23,Pittsburgh,2020,124,4,18,Anthony McFarland Jr.,Running Back,68.0,208.0,182.0,15.0,52.0,Hyattsville,MD,USA,38.9529442,-76.9408647,24033.0
+3914395.0,104646,2229,Florida International,Conference USA,20,New York,2020,125,4,19,James Morgan,Quarterback,76.0,229.0,171.0,10.0,54.0,Green Bay,WI,USA,44.5126379,-88.0125794,55009.0
+3895840.0,104645,153,North Carolina,ACC,34,Houston,2020,126,4,20,Charlie Heck,Offensive Tackle,80.0,311.0,125.0,14.0,64.0,Kansas City,MO,USA,39.100105,-94.5781416,29095.0
+4035463.0,104374,228,Clemson,ACC,21,Philadelphia,2020,127,4,21,K'Von Wallace,Safety,71.0,206.0,252.0,18.0,38.0,Richmond,VA,USA,37.5385087,-77.43428,51760.0
+4243537.0,104457,2116,UCF,American Athletic,2,Buffalo,2020,128,4,22,Gabriel Davis,Wide Receiver,74.0,216.0,156.0,27.0,57.0,Sanford,FL,USA,28.8117297,-81.2680345,12117.0
+3914277.0,104547,2429,Charlotte,Conference USA,20,New York,2020,129,4,23,Cameron Clark,Offensive Tackle,77.0,308.0,253.0,23.0,38.0,Greensboro,NC,USA,36.0726355,-79.7919754,37081.0
+4259181.0,104371,239,Baylor,Big 12,16,Minnesota,2020,130,4,24,James Lynch,Defensive Tackle,76.0,289.0,102.0,11.0,69.0,Round Rock,TX,USA,30.508235,-97.6788934,48491.0
+4035452.0,104518,99,LSU,SEC,22,Arizona,2020,131,4,25,Rashard Lawrence,Defensive Tackle,74.0,308.0,135.0,9.0,61.0,Monroe,LA,USA,32.5093109,-92.1193012,22073.0
+4038946.0,104237,2483,Oregon,Pac-12,16,Minnesota,2020,132,4,26,Troy Dye,Inside Linebacker,75.0,231.0,78.0,4.0,74.0,Norco,CA,USA,33.9323307,-117.5508901,6065.0
+4242557.0,104445,24,Stanford,Pac-12,26,Seattle,2020,133,4,27,Colby Parkinson,Tight End,79.0,252.0,117.0,7.0,66.0,Simi Valley,CA,USA,34.2694474,-118.781482,6111.0
+3858276.0,104677,25,California,Pac-12,1,Atlanta,2020,134,4,28,Jaylinn Hawkins,Safety,73.0,208.0,,,,Buena Park,CA,USA,33.870413,-117.9962165,6059.0
+3917599.0,104649,309,Louisiana,Sun Belt,23,Pittsburgh,2020,135,4,29,Kevin Dotson,Offensive Guard,76.0,313.0,205.0,12.0,47.0,Plaquemine,LA,USA,30.2890833,-91.2342744,22047.0
+3918003.0,104175,2509,Purdue,Big Ten,14,Los Angeles,2020,136,4,30,Brycen Hopkins,Tight End,76.0,245.0,160.0,9.0,56.0,Nashville,TN,USA,36.1622296,-86.7743531,47037.0
+4241977.0,104444,127,Michigan State,Big Ten,30,Jacksonville,2020,137,4,31,Josiah Scott,Cornerback,69.0,185.0,147.0,18.0,59.0,Hamilton,OH,USA,39.3995067,-84.5613428,39017.0
+4040432.0,104656,2348,Louisiana Tech,Conference USA,12,Kansas City,2020,138,4,32,L'Jarius Sneed,Safety,73.0,192.0,245.0,17.0,39.0,Minden,LA,USA,32.6154278,-93.2868354,32005.0
+4239694.0,104451,2348,Louisiana Tech,Conference USA,13,Las Vegas,2020,139,4,33,Amik Robertson,Cornerback,68.0,187.0,68.0,9.0,75.0,Thibodaux,LA,USA,29.7957633,-90.822871,22057.0
+4037468.0,104187,2390,Miami,ACC,30,Jacksonville,2020,140,4,34,Shaquille Quarterman,Inside Linebacker,73.0,234.0,218.0,9.0,44.0,Orange Park,FL,USA,30.1654707,-81.7016346,12019.0
+3929653.0,104541,213,Penn State,Big Ten,34,Houston,2020,141,4,35,John Reid,Cornerback,70.0,187.0,214.0,25.0,45.0,Mount Laurel,NJ,USA,39.934002,-74.8909988,34005.0
+4029893.0,104394,2335,Liberty,FBS Independents,28,Washington,2020,142,4,36,Antonio Gandy-Golden,Wide Receiver,76.0,223.0,83.0,14.0,73.0,Dallas,GA,USA,33.9237141,-84.8407732,13223.0
+4046551.0,104191,130,Michigan,Big Ten,33,Baltimore,2020,143,4,37,Ben Bredeson,Offensive Guard,77.0,315.0,158.0,8.0,57.0,Hartland,WI,USA,43.105008,-88.3420398,55133.0
+4240631.0,104487,2390,Miami,ACC,26,Seattle,2020,144,4,38,DeeJay Dallas,Running Back,70.0,217.0,154.0,12.0,57.0,Brunswick,GA,USA,31.1499528,-81.4914894,13127.0
+3932668.0,104490,2,Auburn,SEC,21,Philadelphia,2020,145,4,39,Jack Driscoll,Offensive Guard,77.0,306.0,133.0,6.0,61.0,Madison,CT,USA,41.2794282,-72.5983151,9009.0
+4035788.0,104115,275,Wisconsin,Big Ten,6,Dallas,2020,146,4,40,Tyler Biadasz,Center,76.0,314.0,89.0,3.0,71.0,Amherst,WI,USA,44.4506775,-89.2845905,55097.0
+4039029.0,104133,87,Notre Dame,FBS Independents,4,Cincinnati,2020,147,5,1,Khalid Kareem,Defensive End,76.0,268.0,148.0,18.0,59.0,Detroit,MI,USA,42.3315509,-83.0466403,26163.0
+4254276.0,104183,183,Syracuse,ACC,26,Seattle,2020,148,5,2,Alton Robinson,Defensive End,75.0,264.0,141.0,17.0,60.0,Converse,TX,USA,29.5180081,-98.3161241,48029.0
+3915470.0,104655,2050,Ball State,Mid-American,11,Indianapolis,2020,149,5,3,Danny Pinter,Offensive Guard,76.0,306.0,244.0,22.0,39.0,South Bend,IN,USA,41.6833813,-86.2500066,18141.0
+3915142.0,104246,2483,Oregon,Pac-12,19,New York,2020,150,5,4,Shane Lemieux,Offensive Guard,76.0,310.0,240.0,14.0,40.0,Yakima,WA,USA,46.601557,-120.5108421,53077.0
+4037591.0,104373,258,Virginia,ACC,24,Los Angeles,2020,151,5,5,Joe Reed,Wide Receiver,73.0,224.0,118.0,19.0,66.0,Charlotte Court House,VA,USA,37.0565362,-78.638334,51037.0
+4241889.0,104651,277,West Virginia,Big 12,29,Carolina,2020,152,5,6,Kenny Robinson,Safety,74.0,198.0,223.0,14.0,42.0,Wilkinsburg,PA,USA,40.4417355,-79.8819942,42003.0
+3916075.0,104145,277,West Virginia,Big 12,25,San Francisco,2020,153,5,7,Colton McKivitz,Offensive Tackle,78.0,306.0,110.0,13.0,68.0,Jacobsburg,OH,USA,39.9650725,-80.9042594,39013.0
+3895843.0,104376,153,North Carolina,ACC,15,Miami,2020,154,5,9,Jason Strowbridge,Defensive End,76.0,275.0,104.0,7.0,69.0,Deerfield Beach,FL,USA,26.318342,-80.0996306,12011.0
+3917016.0,104678,202,Tulsa,American Athletic,3,Chicago,2020,155,5,10,Trevis Gipson,Outside Linebacker,75.0,261.0,,,,Cedar Hill,TX,USA,32.5888072,-96.9553675,48113.0
+4036831.0,104479,21,San Diego State,Mountain West,28,Washington,2020,156,5,11,Keith Ismael,Center,75.0,309.0,112.0,5.0,67.0,Oakland,CA,USA,37.8044557,-122.2713563,6001.0
+4035505.0,104679,2,Auburn,SEC,30,Jacksonville,2020,157,5,12,Daniel Thomas,Safety,70.0,215.0,,,,Montgomery,AL,USA,32.3669656,-86.3006485,1101.0
+4037584.0,104121,258,Virginia,ACC,20,New York,2020,158,5,13,Bryce Hall,Cornerback,73.0,202.0,87.0,11.0,71.0,Harrisburg,PA,USA,40.2663107,-76.8861122,42043.0
+3913295.0,104680,276,Marshall,Conference USA,17,New England,2020,159,5,14,Justin Rohrwasser,Place Kicker,75.0,234.0,,,,Clifton Park,NY,USA,42.8656325,-73.7709535,36091.0
+4039016.0,104213,264,Washington,Pac-12,5,Cleveland,2020,160,5,15,Nick Harris,Center,73.0,302.0,146.0,6.0,59.0,Inglewood,CA,USA,33.9562003,-118.353132,6037.0
+246044.0,104174,135,Minnesota,Big Ten,27,Tampa Bay,2020,161,5,16,Tyler Johnson,Wide Receiver,73.0,206.0,173.0,29.0,54.0,Minneapolis,MN,USA,44.9772995,-93.2654692,27053.0
+4046525.0,104488,130,Michigan,Big Ten,28,Washington,2020,162,5,17,Khaleke Hudson,Outside Linebacker,71.0,224.0,152.0,9.0,58.0,Mckeesport,PA,USA,40.3478472,-79.864215,42003.0
+4036651.0,104225,290,Georgia Southern,Sun Belt,3,Chicago,2020,163,5,18,Kindle Vildor,Cornerback,70.0,191.0,140.0,17.0,60.0,College Park,GA,USA,33.6534427,-84.4493725,13121.0
+4048257.0,104119,68,Boise State,Mountain West,15,Miami,2020,164,5,19,Curtis Weaver,Defensive End,74.0,265.0,88.0,9.0,71.0,Long Beach,CA,USA,33.7690164,-118.1916048,6037.0
+4039043.0,104137,251,Texas,Big 12,30,Jacksonville,2020,165,5,20,Collin Johnson,Wide Receiver,78.0,222.0,107.0,17.0,68.0,San Jose,CA,USA,37.3361905,-121.8905833,6085.0
+4035793.0,104480,275,Wisconsin,Big Ten,8,Detroit,2020,166,5,21,Quintez Cephus,Wide Receiver,73.0,202.0,248.0,38.0,39.0,Macon,GA,USA,32.8406946,-83.6324022,13021.0
+4240689.0,104128,61,Georgia,SEC,2,Buffalo,2020,167,5,22,Jake Fromm,Quarterback,74.0,219.0,54.0,5.0,82.0,Warner Robins,GA,USA,32.6200973,-83.606568,13153.0
+4373673.0,104652,68,Boise State,Mountain West,21,Philadelphia,2020,168,5,23,John Hightower,Wide Receiver,74.0,189.0,231.0,36.0,41.0,Landover,MD,USA,38.9340002,-76.8966397,24033.0
+4259170.0,104452,218,Temple,American Athletic,16,Minnesota,2020,169,5,24,Harrison Hand,Cornerback,71.0,197.0,175.0,21.0,54.0,Cherry Hill,NJ,USA,39.9348351,-75.0307264,34007.0
+3915837.0,104681,2641,Texas Tech,Big 12,33,Baltimore,2020,170,5,25,Broderick Washington Jr,Defensive Tackle,74.0,305.0,,,,Longview,TX,USA,32.5007031,-94.74049,48183.0
+4248504.0,104647,227,Rhode Island,CAA,34,Houston,2020,171,5,26,Isaiah Coulter,Wide Receiver,74.0,198.0,178.0,30.0,53.0,Lubbock,TX,USA,33.5635206,-101.879336,48303.0
+4040790.0,104682,166,New Mexico State,FBS Independents,8,Detroit,2020,172,5,27,Jason Huntley,Running Back,68.0,190.0,,,,Arlington,TX,USA,32.701939,-97.105623790337,48439.0
+4040655.0,104683,2655,Tulane,American Athletic,3,Chicago,2020,173,5,28,Darnell Mooney,Wide Receiver,70.0,176.0,,,,Gadsden,AL,USA,34.010929,-85.9989596,1055.0
+4240123.0,104377,152,NC State,ACC,10,Tennessee,2020,174,5,29,Larrell Murchison,Defensive Tackle,75.0,297.0,181.0,14.0,52.0,Elizabethtown,NC,USA,34.6293372,-78.6052899,37017.0
+4034781.0,104211,135,Minnesota,Big Ten,9,Green Bay,2020,175,5,30,Kamal Martin,Inside Linebacker,75.0,240.0,157.0,10.0,57.0,Burnsville,MN,USA,44.7677424,-93.2777226,27037.0
+3916566.0,104551,2390,Miami,ACC,16,Minnesota,2020,176,5,31,K.J. Osborn,Wide Receiver,72.0,203.0,293.0,44.0,32.0,Ypsilanti,MI,USA,42.24253,-83.6171426940706,26161.0
+3915487.0,104172,130,Michigan,Big Ten,12,Kansas City,2020,177,5,32,Mike Danna,Defensive End,74.0,251.0,292.0,27.0,32.0,Detroit,MI,USA,42.3315509,-83.0466403,26163.0
+3919548.0,104504,154,Wake Forest,ACC,7,Denver,2020,178,5,33,Justin Strnad,Outside Linebacker,75.0,238.0,174.0,12.0,54.0,Palm Harbor,FL,USA,28.0780718,-82.7637127,12103.0
+4035660.0,104388,254,Utah,Pac-12,6,Dallas,2020,179,5,34,Bradlee Anae,Defensive End,75.0,257.0,106.0,12.0,68.0,Laie,HI,USA,21.6472444,-157.93069756074482,15003.0
+4046557.0,104390,2305,Kansas,Big 12,4,Cincinnati,2020,180,6,1,Hakeem Adeniji,Offensive Tackle,76.0,302.0,207.0,19.0,47.0,Garland,TX,USA,32.912624,-96.6388833,48113.0
+4040910.0,104484,278,Fresno State,Mountain West,7,Denver,2020,181,6,2,Netane Muti,Offensive Guard,75.0,315.0,128.0,5.0,63.0,Wahiawa,HI,USA,21.500624100000003,-158.0166720181598,15003.0
+4046545.0,104684,130,Michigan,Big Ten,17,New England,2020,182,6,3,Michael Onwenu,Offensive Guard,75.0,344.0,,,,Detroit,MI,USA,42.3315509,-83.0466403,26163.0
+4259586.0,104524,213,Penn State,Big Ten,19,New York,2020,183,6,4,Cam Brown,Outside Linebacker,77.0,233.0,260.0,15.0,37.0,Burtonsville,MD,USA,39.1112193,-76.9324752,24031.0
+4035407.0,104685,239,Baylor,Big 12,29,Carolina,2020,184,6,5,Bravvion Roy,Defensive Tackle,73.0,330.0,,,,Spring,TX,USA,30.0798826,-95.4172549,48201.0
+3843470.0,104462,99,LSU,SEC,15,Miami,2020,185,6,6,Blake Ferguson,Long Snapper,75.0,229.0,276.0,1.0,35.0,Smyrna,GA,USA,33.883887,-84.5147454,13067.0
+4039413.0,104552,87,Notre Dame,FBS Independents,24,Los Angeles,2020,186,6,7,Alohi Gilman,Safety,71.0,201.0,142.0,11.0,60.0,Laie,HI,USA,21.6472444,-157.93069756074482,15003.0
+4258195.0,104140,130,Michigan,Big Ten,5,Cleveland,2020,187,6,8,Donovan Peoples-Jones,Wide Receiver,74.0,212.0,126.0,21.0,64.0,Detroit,MI,USA,42.3315509,-83.0466403,26163.0
+3917232.0,104402,290,Georgia Southern,Sun Belt,2,Buffalo,2020,188,6,9,Tyler Bass,Place Kicker,71.0,185.0,275.0,1.0,35.0,Irmo,SC,USA,34.08846885,-81.18021121302588,45063.0
+3124900.0,104628,204,Oregon State,Pac-12,30,Jacksonville,2020,189,6,10,Jake Luton,Quarterback,78.0,224.0,204.0,11.0,47.0,Marysville,WA,USA,48.0517429,-122.1768209,53061.0
+4035020.0,104686,61,Georgia,SEC,25,San Francisco,2020,190,6,11,Charlie Woerner,Tight End,77.0,244.0,,,,Tiger,GA,USA,34.8470372,-83.4329399,13241.0
+4035239.0,104386,245,Texas A&M,SEC,20,New York,2020,191,6,12,Braden Mann,Punter,71.0,198.0,170.0,1.0,55.0,Houston,TX,USA,29.7589382,-95.3676974,48201.0
+3929936.0,22608,130,Michigan,Big Ten,9,Green Bay,2020,192,6,13,Jon Runyan,Offensive Guard,76.0,306.0,201.0,18.0,48.0,Moorestown,NJ,USA,39.9670569,-74.9426677,34005.0
+3929658.0,104380,213,Penn State,Big Ten,11,Indianapolis,2020,193,6,14,Robert Windsor,Defensive Tackle,77.0,290.0,176.0,12.0,54.0,Fond Du Lac,WI,USA,43.7748763,-88.4458033,55039.0
+3699530.0,104657,158,Nebraska,Big Ten,27,Tampa Bay,2020,194,6,15,Khalil Davis,Defensive Tackle,73.0,308.0,246.0,21.0,39.0,Blue Springs,MO,USA,39.017316,-94.282265,29095.0
+3124112.0,104660,154,Wake Forest,ACC,17,New England,2020,195,6,16,Justin Herron,Offensive Tackle,76.0,308.0,288.0,24.0,32.0,Silver Spring,MD,USA,38.9959461,-77.0276231,24031.0
+4038902.0,104648,218,Temple,American Athletic,21,Philadelphia,2020,196,6,17,Shaun Bradley,Inside Linebacker,73.0,235.0,189.0,7.0,50.0,Mount Holly,NJ,USA,39.9928898,-74.7876624,34005.0
+4243257.0,104650,254,Utah,Pac-12,8,Detroit,2020,197,6,18,John Penisini,Defensive Tackle,73.0,318.0,215.0,17.0,45.0,West Jordan,UT,USA,40.6096698,-111.9391031,49035.0
+4036213.0,104170,120,Maryland,Big Ten,23,Pittsburgh,2020,198,6,19,Antoine Brooks Jr.,Safety,71.0,220.0,208.0,13.0,47.0,Lanham,MD,USA,38.9670551,-76.8619166,24033.0
+4040613.0,104178,194,Ohio State,Big Ten,14,Los Angeles,2020,199,6,20,Jordan Fuller,Safety,74.0,203.0,268.0,20.0,36.0,Old Tappan,NJ,USA,41.0106971,-73.9911073,34003.0
+4050373.0,104449,2572,Southern Miss,Conference USA,21,Philadelphia,2020,200,6,21,Quez Watkins,Wide Receiver,72.0,185.0,136.0,23.0,61.0,Athens,AL,USA,34.828382500000004,-86.91713375,1083.0
+3916204.0,104495,2567,SMU,American Athletic,33,Baltimore,2020,201,6,22,James Proche,Wide Receiver,71.0,201.0,164.0,28.0,55.0,Dallas,TX,USA,32.7762719,-96.7968559,48113.0
+4035875.0,104400,25,California,Pac-12,22,Arizona,2020,202,6,23,Evan Weaver,Inside Linebacker,74.0,237.0,247.0,11.0,39.0,Spokane,WA,USA,47.6579425,-117.4212265,53063.0
+3930270.0,104687,204,Oregon State,Pac-12,16,Minnesota,2020,203,6,24,Blake Brandel,Offensive Tackle,79.0,303.0,,,,Milwaukie,OR,USA,45.4453901,-122.6392889,41005.0
+4048736.0,104688,2751,Wyoming,Mountain West,17,New England,2020,204,6,25,Cassh Maluia,Inside Linebacker,72.0,248.0,,,,Compton,CA,USA,33.894927,-118.226624,6037.0
+4046537.0,104146,130,Michigan,Big Ten,16,Minnesota,2020,205,6,26,Josh Metellus,Safety,71.0,209.0,233.0,16.0,41.0,Pembroke Pines,FL,USA,26.02322025,-80.34123906625615,12011.0
+3914240.0,104689,59,Georgia Tech,ACC,30,Jacksonville,2020,206,6,27,Tyler Davis,Tight End,76.0,240.0,,,,North Bellmore,NY,USA,40.6914882,-73.5336396,36059.0
+4242540.0,104439,204,Oregon State,Pac-12,2,Buffalo,2020,207,6,28,Isaiah Hodgins,Wide Receiver,76.0,210.0,187.0,32.0,51.0,Oakley,CA,USA,37.9974219,-121.7124536,6013.0
+3915139.0,104690,2483,Oregon,Pac-12,9,Green Bay,2020,208,6,29,Jake Hanson,Center,76.0,303.0,,,,Eureka,CA,USA,40.8020712,-124.1636729,6023.0
+3929794.0,104193,84,Indiana,Big Ten,9,Green Bay,2020,209,6,30,Simon Stepaniak,Offensive Tackle,76.0,313.0,304.0,25.0,31.0,Hamilton,OH,USA,39.3995067,-84.5613428,39017.0
+4035518.0,104123,2,Auburn,SEC,21,Philadelphia,2020,210,6,31,Prince Tega Wanogho,Offensive Tackle,77.0,308.0,91.0,12.0,71.0,Delta State,,Nigeria,,,
+4044540.0,104691,113,Massachusetts,FBS Independents,11,Indianapolis,2020,211,6,32,Isaiah Rodgers,Cornerback,70.0,170.0,,,,Tampa,FL,USA,27.9477595,-82.458444,12057.0
+4054085.0,104239,265,Washington State,Pac-12,11,Indianapolis,2020,212,6,33,Dezmon Patmon,Wide Receiver,76.0,225.0,200.0,33.0,48.0,San Diego,CA,USA,32.7174209,-117.1627714,6073.0
+3929928.0,104692,130,Michigan,Big Ten,11,Indianapolis,2020,213,6,34,Jordan Glasgow,Inside Linebacker,73.0,226.0,,,,Aurora,IL,USA,41.7571701,-88.3147539,17089.0
+4034950.0,104693,57,Florida,SEC,26,Seattle,2020,214,6,36,Freddie Swain,Wide Receiver,72.0,197.0,,,,Ocala,FL,USA,29.1871986,-82.1400923,12083.0
+3917992.0,104147,2509,Purdue,Big Ten,4,Cincinnati,2020,215,7,1,Markus Bailey,Inside Linebacker,72.0,235.0,131.0,5.0,62.0,Columbus,OH,USA,39.9622601,-83.0007065,39049.0
+4242154.0,104694,8,Arkansas,SEC,28,Washington,2020,216,7,2,Kamren Curl,Safety,73.0,206.0,,,,San Diego,CA,USA,32.7174209,-117.1627714,6073.0
+3886598.0,104248,2633,Tennessee,SEC,25,San Francisco,2020,217,7,3,Jauan Jennings,Wide Receiver,75.0,215.0,278.0,42.0,34.0,Murfreesboro,TN,USA,35.845999,-86.3920452,47149.0
+4034766.0,104405,135,Minnesota,Big Ten,19,New York,2020,218,7,4,Carter Coughlin,Outside Linebacker,75.0,236.0,190.0,13.0,50.0,Eden Prairie,MN,USA,44.8546856,-93.470786,27053.0
+4240575.0,104483,2294,Iowa,Big Ten,33,Baltimore,2020,219,7,5,Geno Stone,Safety,70.0,207.0,116.0,9.0,67.0,New Castle,PA,USA,40.9999202,-80.3471856,42073.0
+3915522.0,104166,194,Ohio State,Big Ten,24,Los Angeles,2020,220,7,6,K.J. Hill,Wide Receiver,72.0,196.0,98.0,15.0,70.0,Little Rock,AR,USA,34.7464809,-92.2895948,5119.0
+4046353.0,104695,2229,Florida International,Conference USA,29,Carolina,2020,221,7,7,Stantley Thomas-Oliver III,Cornerback,72.0,192.0,,,,Punta Gorda,FL,USA,26.9297836,-82.0453664,12015.0
+4242873.0,104448,9,Arizona State,Pac-12,22,Arizona,2020,222,7,8,Eno Benjamin,Running Back,69.0,207.0,180.0,14.0,53.0,Wylie,TX,USA,33.0151201,-96.5388789,48085.0
+4371737.0,104696,235,Memphis,American Athletic,30,Jacksonville,2020,223,7,9,Chris Claybrooks,Cornerback,69.0,177.0,,,,Nashville,TN,USA,36.1622296,-86.7743531,47037.0
+4038220.0,104459,62,Hawai'i,Mountain West,10,Tennessee,2020,224,7,10,Cole McDonald,Quarterback,75.0,215.0,213.0,12.0,45.0,La Mirada,CA,USA,33.9060971,-118.0107092,6037.0
+3929833.0,104132,127,Michigan State,Big Ten,16,Minnesota,2020,225,7,11,Kenny Willekes,Defensive End,76.0,264.0,115.0,14.0,67.0,Rockford,MI,USA,43.119721,-85.559604,17201.0
+4241422.0,104697,38,Colorado,Pac-12,3,Chicago,2020,226,7,12,Arlington Hambright,Offensive Tackle,76.0,307.0,,,,Ypsilanti,MI,USA,42.24253,-83.6171426940706,26161.0
+3912245.0,104698,2634,Tennessee State,OVC,3,Chicago,2020,227,7,13,Lachavious Simmons,Offensive Guard,77.0,304.0,,,,Selma,AL,USA,32.4078632,-87.0207473,1047.0
+3916449.0,104699,183,Syracuse,ACC,1,Atlanta,2020,228,7,14,Sterling Hofrichter,Punter,70.0,196.0,,,,Valrico,FL,USA,27.9484265,-82.23621545220522,12057.0
+3686690.0,104527,152,NC State,ACC,28,Washington,2020,229,7,15,James Smith-Williams,Defensive End,76.0,265.0,229.0,23.0,41.0,Raleigh,NC,USA,35.7803977,-78.6390989,37183.0
+4039374.0,104700,235,Memphis,American Athletic,17,New England,2020,230,7,16,Dustin Woodard,Center,73.0,295.0,,,,Chandler,AZ,USA,33.3062223,-111.8413317,4013.0
+3895785.0,104701,256,James Madison,CAA,6,Dallas,2020,231,7,17,Ben DiNucci,Quarterback,75.0,210.0,,,,Dallas,TX,USA,32.7762719,-96.7968559,48113.0
+3699462.0,104513,158,Nebraska,Big Ten,23,Pittsburgh,2020,232,7,18,Carlos Davis,Defensive Tackle,74.0,313.0,206.0,16.0,47.0,Blue Springs,MO,USA,39.017316,-94.282265,29095.0
+3931408.0,104530,24,Stanford,Pac-12,21,Philadelphia,2020,233,7,19,Casey Toohill,Defensive End,76.0,250.0,283.0,26.0,33.0,San Diego,CA,USA,32.7174209,-117.1627714,6073.0
+3928928.0,104702,239,Baylor,Big 12,14,Los Angeles,2020,234,7,20,Clay Johnston,Inside Linebacker,73.0,227.0,,,,Abilene,TX,USA,32.44645,-99.7475905,48441.0
+3873928.0,104703,194,Ohio State,Big Ten,8,Detroit,2020,235,7,21,Jashon Cornell,Defensive End,75.0,285.0,,,,Saint Paul,MN,USA,44.9504037,-93.1015026,27123.0
+4038538.0,104704,2628,TCU,Big 12,9,Green Bay,2020,236,7,22,Vernon Scott,Safety,73.0,206.0,,,,Mansfield,TX,USA,32.5631924,-97.1416768,48439.0
+4040652.0,104705,2655,Tulane,American Athletic,12,Kansas City,2020,237,7,23,Thakarius Keyes,Cornerback,73.0,202.0,,,,Laurel,MS,USA,31.74096,-89.13382003619111,28067.0
+4038811.0,104706,2579,South Carolina,SEC,19,New York,2020,238,7,24,TJ Brunson,Inside Linebacker,72.0,230.0,,,,Columbia,SC,USA,34.0007493,-81.0343313,45079.0
+3895791.0,104389,221,Pittsburgh,ACC,2,Buffalo,2020,239,7,25,Dane Jackson,Cornerback,72.0,187.0,195.0,22.0,50.0,Coraopolis,PA,USA,40.5184013,-80.1667247,42003.0
+3791110.0,104707,344,Mississippi State,SEC,18,New Orleans,2020,240,7,26,Tommy Stevens,Quarterback,77.0,235.0,,,,Indianapolis,IN,USA,39.7683331,-86.1583502,18097.0
+3923413.0,104515,218,Temple,American Athletic,27,Tampa Bay,2020,241,7,27,Chapelle Russell,Outside Linebacker,74.0,236.0,211.0,14.0,46.0,Lakewood,NJ,USA,40.0978929,-74.2176435,34029.0
+4240655.0,104454,2390,Miami,ACC,9,Green Bay,2020,242,7,28,Jonathan Garvin,Defensive End,76.0,263.0,177.0,20.0,54.0,Lake Worth,FL,USA,26.615891,-80.0691435,12099.0
+4043605.0,104708,276,Marshall,Conference USA,10,Tennessee,2020,243,7,29,Chris Jackson,Safety,70.0,193.0,,,,Tallahassee,FL,USA,30.4380832,-84.2809332,12073.0
+4036149.0,104154,2294,Iowa,Big Ten,16,Minnesota,2020,244,7,30,Nate Stanley,Quarterback,76.0,235.0,159.0,9.0,56.0,Menomonie,WI,USA,44.8755183,-91.9193422,55033.0
+4040732.0,104508,309,Louisiana,Sun Belt,27,Tampa Bay,2020,245,7,31,Raymond Calais,Running Back,68.0,188.0,254.0,24.0,38.0,Breaux Bridge,LA,USA,30.2735323,-91.8992837,22099.0
+4039436.0,104709,2426,Navy,American Athletic,15,Miami,2020,246,7,32,Malcolm Perry,Wide Receiver,69.0,186.0,,,,Clarksville,TN,USA,36.5277607,-87.3588703,47125.0
+3915122.0,104710,135,Minnesota,Big Ten,19,New York,2020,247,7,33,Chris Williamson,Cornerback,72.0,205.0,,,,Gainesville,GA,USA,34.2978794,-83.8240663,13139.0
+4038994.0,104711,193,Miami (OH),Mid-American,14,Los Angeles,2020,248,7,34,Sam Sloman,Place Kicker,68.0,205.0,,,,Roswell,GA,USA,34.02332,-84.360022,13121.0
+3672884.0,104382,344,Mississippi State,SEC,16,Minnesota,2020,249,7,35,Brian Cole II,Safety,74.0,213.0,239.0,15.0,40.0,Saginaw,MI,USA,43.4200387,-83.9490365,26145.0
+4035478.0,104393,228,Clemson,ACC,14,Los Angeles,2020,250,7,36,Tremayne Anchrum,Offensive Guard,74.0,314.0,196.0,11.0,49.0,Powder Springs,GA,USA,33.8595492,-84.683824,13067.0
+4035426.0,104456,99,LSU,SEC,26,Seattle,2020,251,7,37,Stephen Sullivan,Tight End,77.0,248.0,192.0,12.0,50.0,Donaldsonville,LA,USA,30.1010324,-90.9928774,22005.0
+4034964.0,104531,57,Florida,SEC,7,Denver,2020,252,7,38,Tyrie Cleveland,Wide Receiver,74.0,209.0,256.0,39.0,38.0,Houston,TX,USA,29.7589382,-95.3676974,48201.0
+4682831.0,104712,2687,Washburn,Mid America,16,Minnesota,2020,253,7,39,Kyle Hinton,Offensive Guard,74.0,295.0,,,,,,,,,
+3930915.0,104713,2449,North Dakota State,MVFC,7,Denver,2020,254,7,40,Derrek Tuszka,Outside Linebacker,76.0,251.0,,,,Warner,SD,USA,45.3256953,-98.49539,46013.0
+3915171.0,104714,61,Georgia,SEC,19,New York,2020,255,7,41,Tae Crowder,Inside Linebacker,74.0,235.0,,,,Pine Mountain,GA,USA,32.8648522,-84.8540982,13145.0
+4360310.0,104734,228,Clemson,ACC,30,Jacksonville,2021,1,1,1,Trevor Lawrence,Quarterback,78.0,213.0,1.0,1.0,97.0,Cartersville,GA,USA,34.1650972,-84.7999383,13015.0
+4361259.0,104933,252,BYU,FBS Independents,20,New York,2021,2,1,2,Zach Wilson,Quarterback,74.0,214.0,4.0,2.0,93.0,Draper,UT,USA,40.5246711,-111.8638226,49035.0
+4383351.0,104742,2449,North Dakota State,MVFC,25,San Francisco,2021,3,1,3,Trey Lance,Quarterback,76.0,224.0,9.0,3.0,92.0,,,,,,
+4360248.0,104760,57,Florida,SEC,1,Atlanta,2021,4,1,4,Kyle Pitts,Tight End,78.0,245.0,2.0,1.0,94.0,Abington,PA,USA,40.1206656,-75.1179512,42091.0
+4362628.0,104737,99,LSU,SEC,4,Cincinnati,2021,5,1,5,Ja'Marr Chase,Wide Receiver,72.0,201.0,3.0,1.0,94.0,Harvey,LA,USA,29.9035387,-90.0772944,17031.0
+4372016.0,104744,333,Alabama,SEC,15,Miami,2021,6,1,6,Jaylen Waddle,Wide Receiver,70.0,180.0,7.0,3.0,93.0,Houston,TX,USA,29.7589382,-95.3676974,48201.0
+4373825.0,104735,2483,Oregon,Pac-12,8,Detroit,2021,7,1,7,Penei Sewell,Offensive Tackle,77.0,331.0,5.0,1.0,93.0,Saint George,UT,USA,37.104153,-113.5841313,49053.0
+4362847.0,104938,2579,South Carolina,SEC,29,Carolina,2021,8,1,8,Jaycee Horn,Cornerback,73.0,205.0,14.0,2.0,91.0,Alpharetta,GA,USA,34.0709576,-84.2747329,13121.0
+4372012.0,104736,333,Alabama,SEC,7,Denver,2021,9,1,9,Pat Surtain II,Cornerback,74.0,208.0,10.0,1.0,92.0,Plantation,FL,USA,26.1265258,-80.25786123765101,12011.0
+4241478.0,104741,333,Alabama,SEC,21,Philadelphia,2021,10,1,10,DeVonta Smith,Wide Receiver,72.0,170.0,6.0,2.0,93.0,Amite,LA,USA,30.7265747,-90.5089815,22105.0
+4362887.0,104739,194,Ohio State,Big Ten,3,Chicago,2021,11,1,11,Justin Fields,Quarterback,75.0,227.0,11.0,4.0,91.0,Kennesaw,GA,USA,34.0234337,-84.6154897,13067.0
+4361423.0,104738,213,Penn State,Big Ten,6,Dallas,2021,12,1,12,Micah Parsons,Inside Linebacker,75.0,246.0,16.0,2.0,90.0,Harrisburg,PA,USA,40.2663107,-76.8861122,42043.0
+4242283.0,104761,77,Northwestern,Big Ten,24,Los Angeles,2021,13,1,13,Rashawn Slater,Offensive Tackle,76.0,304.0,8.0,2.0,93.0,Sugar Land,TX,USA,29.6196787,-95.6349463,48157.0
+4259646.0,104771,30,USC,Pac-12,20,New York,2021,14,1,14,Alijah Vera-Tucker,Offensive Guard,77.0,308.0,13.0,1.0,91.0,Oakland,CA,USA,37.8044557,-122.2713563,6001.0
+4241464.0,104935,333,Alabama,SEC,17,New England,2021,15,1,15,Mac Jones,Quarterback,75.0,217.0,15.0,5.0,90.0,Jacksonville,FL,USA,30.3321838,-81.655651,12031.0
+4244606.0,105138,202,Tulsa,American Athletic,22,Arizona,2021,16,1,16,Zaven Collins,Outside Linebacker,77.0,259.0,27.0,1.0,89.0,Hominy,OK,USA,36.4142357,-96.3952963,40113.0
+4241466.0,104806,333,Alabama,SEC,13,Las Vegas,2021,17,1,17,Alex Leatherwood,Offensive Tackle,77.0,312.0,60.0,2.0,80.0,Pensacola,FL,USA,30.421309,-87.2169149,12033.0
+4242975.0,105141,2390,Miami,ACC,15,Miami,2021,18,1,18,Jaelan Phillips,Defensive End,78.0,260.0,21.0,2.0,90.0,Redlands,CA,USA,34.055735,-117.1888961,6071.0
+4240778.0,105250,96,Kentucky,SEC,28,Washington,2021,19,1,19,Jamin Davis,Inside Linebacker,76.0,234.0,25.0,3.0,90.0,Ludowici,GA,USA,31.7097964,-81.7430846,13183.0
+4240600.0,105142,57,Florida,SEC,19,New York,2021,20,1,20,Kadarius Toney,Wide Receiver,72.0,193.0,32.0,6.0,88.0,Mobile,AL,USA,30.6943566,-88.0430541,1097.0
+4258194.0,104780,130,Michigan,Big Ten,11,Indianapolis,2021,21,1,21,Kwity Paye,Defensive End,75.0,261.0,18.0,1.0,90.0,Providence,RI,USA,41.8239891,-71.4128343,44007.0
+4240859.0,104751,259,Virginia Tech,ACC,10,Tennessee,2021,22,1,22,Caleb Farley,Cornerback,74.0,197.0,19.0,3.0,90.0,Maiden,NC,USA,35.5766048,-81.2139216,37035.0
+4361985.0,105134,259,Virginia Tech,ACC,16,Minnesota,2021,23,1,23,Christian Darrisaw,Offensive Tackle,77.0,322.0,20.0,3.0,90.0,Upper Marlboro,MD,USA,38.8165274,-76.7519753,24033.0
+4241457.0,104766,333,Alabama,SEC,23,Pittsburgh,2021,24,1,24,Najee Harris,Running Back,73.0,232.0,28.0,2.0,89.0,Antioch,CA,USA,38.0049214,-121.805789,6013.0
+4239996.0,104752,228,Clemson,ACC,30,Jacksonville,2021,25,1,25,Travis Etienne,Running Back,70.0,215.0,22.0,1.0,90.0,Jennings,LA,USA,30.2224284,-92.657085,29189.0
+4361266.0,105268,77,Northwestern,Big Ten,5,Cleveland,2021,26,1,26,Greg Newsome II,Cornerback,72.0,192.0,24.0,4.0,90.0,Chicago,IL,USA,41.8755616,-87.6244212,17031.0
+4360939.0,104740,135,Minnesota,Big Ten,33,Baltimore,2021,27,1,27,Rashod Bateman,Wide Receiver,72.0,190.0,29.0,5.0,89.0,Tifton,GA,USA,31.4522765,-83.5096866,13277.0
+4240269.0,105148,248,Houston,American Athletic,18,New Orleans,2021,28,1,28,Payton Turner,Defensive End,78.0,268.0,73.0,9.0,76.0,Houston,TX,USA,29.7589382,-95.3676974,48201.0
+4259561.0,105145,61,Georgia,SEC,9,Green Bay,2021,29,1,29,Eric Stokes,Cornerback,73.0,194.0,71.0,10.0,76.0,Covington,GA,USA,33.5967815,-83.8601827,13217.0
+4362506.0,104745,2390,Miami,ACC,2,Buffalo,2021,30,1,30,Gregory Rousseau,Defensive End,79.0,266.0,48.0,7.0,84.0,Coconut Creek,FL,USA,26.2714628,-80.18180791688866,12011.0
+4361422.0,105249,213,Penn State,Big Ten,33,Baltimore,2021,31,1,31,Odafe Oweh,Outside Linebacker,77.0,257.0,38.0,5.0,87.0,Howell,NJ,USA,40.1659101,-74.1911588,34025.0
+4243333.0,104773,264,Washington,Pac-12,27,Tampa Bay,2021,32,1,32,Joe Tryon,Outside Linebacker,77.0,259.0,37.0,4.0,88.0,Renton,WA,USA,47.4799078,-122.2034496,53033.0
+4379397.0,104842,61,Georgia,SEC,30,Jacksonville,2021,33,2,1,Tyson Campbell,Cornerback,73.0,193.0,41.0,6.0,86.0,Plantation,FL,USA,26.1265258,-80.25786123765101,12011.0
+4372414.0,105139,145,Ole Miss,SEC,20,New York,2021,34,2,2,Elijah Moore,Wide Receiver,70.0,178.0,23.0,4.0,90.0,Fort Lauderdale,FL,USA,26.1223084,-80.1433786,12011.0
+4361579.0,105146,153,North Carolina,ACC,7,Denver,2021,35,2,3,Javonte Williams,Running Back,70.0,212.0,35.0,3.0,88.0,Wallace,NC,USA,34.735724,-77.9952628,37061.0
+4373809.0,104753,2483,Oregon,Pac-12,15,Miami,2021,36,2,4,Jevon Holland,Safety,73.0,207.0,56.0,4.0,81.0,Pleasanton,CA,USA,37.6624312,-121.8746789,6001.0
+4035624.0,104813,333,Alabama,SEC,21,Philadelphia,2021,37,2,5,Landon Dickerson,Center,78.0,333.0,45.0,1.0,85.0,Hickory,NC,USA,35.7333312,-81.3442915,37035.0
+4372030.0,104936,333,Alabama,SEC,17,New England,2021,38,2,6,Christian Barmore,Defensive Tackle,76.0,310.0,30.0,1.0,89.0,Philadelphia,PA,USA,39.9527237,-75.1635262,42101.0
+4038457.0,104775,197,Oklahoma State,Big 12,3,Chicago,2021,39,2,7,Teven Jenkins,Offensive Tackle,78.0,317.0,26.0,4.0,89.0,Topeka,KS,USA,39.049011,-95.677556,20177.0
+4042119.0,105187,2116,UCF,American Athletic,1,Atlanta,2021,40,2,8,Richie Grant,Safety,72.0,197.0,53.0,3.0,82.0,Fort Walton Beach,FL,USA,30.4057552,-86.618842,12091.0
+4039020.0,104804,264,Washington,Pac-12,8,Detroit,2021,41,2,9,Levi Onwuzurike,Defensive Tackle,75.0,290.0,42.0,2.0,86.0,Allen,TX,USA,33.1031744,-96.6705503,48085.0
+4046694.0,104827,87,Notre Dame,FBS Independents,15,Miami,2021,42,2,10,Liam Eichenberg,Offensive Tackle,78.0,306.0,33.0,5.0,88.0,Cleveland,OH,USA,41.5051613,-81.6934446,39035.0
+4362487.0,104755,2628,TCU,Big 12,13,Las Vegas,2021,43,2,11,Trevon Moehrig,Safety,73.0,202.0,17.0,1.0,90.0,Spring Branch,TX,USA,29.88507325,-98.4196833729311,48091.0
+4362629.0,105270,96,Kentucky,SEC,6,Dallas,2021,44,2,12,Kelvin Joseph,Cornerback,72.0,197.0,64.0,9.0,79.0,Baton Rouge,LA,USA,30.4459596,-91.18738,22033.0
+4242554.0,104789,24,Stanford,Pac-12,30,Jacksonville,2021,45,2,13,Walker Little,Offensive Tackle,79.0,313.0,62.0,7.0,80.0,Houston,TX,USA,29.7589382,-95.3676974,48201.0
+4360320.0,105279,228,Clemson,ACC,4,Cincinnati,2021,46,2,14,Jackson Carman,Offensive Tackle,77.0,317.0,78.0,4.0,75.0,Fairfield,OH,USA,39.3458953,-84.5605031,39017.0
+4363034.0,105143,52,Florida State,ACC,24,Los Angeles,2021,47,2,15,Asante Samuel Jr.,Cornerback,70.0,180.0,34.0,5.0,88.0,Sunrise,FL,USA,26.1482449,-80.32888594100868,12011.0
+4242390.0,105178,87,Notre Dame,FBS Independents,25,San Francisco,2021,48,2,16,Aaron Banks,Offensive Guard,77.0,325.0,92.0,6.0,73.0,Alameda,CA,USA,37.7652076,-122.2416355,6001.0
+4372485.0,104779,2509,Purdue,Big Ten,22,Arizona,2021,49,2,17,Rondale Moore,Wide Receiver,67.0,181.0,54.0,9.0,81.0,New Albany,IN,USA,38.2856247,-85.8241312,18043.0
+4379409.0,105162,61,Georgia,SEC,19,New York,2021,50,2,18,Azeez Ojulari,Outside Linebacker,74.0,249.0,31.0,2.0,88.0,Marietta,GA,USA,33.9528472,-84.5496148,13067.0
+4262199.0,104743,251,Texas,Big 12,28,Washington,2021,51,2,19,Samuel Cosmi,Offensive Tackle,78.0,314.0,66.0,8.0,78.0,Humble,TX,USA,29.9988312,-95.2621553,48201.0
+4258599.0,104749,87,Notre Dame,FBS Independents,5,Cleveland,2021,52,2,20,Jeremiah Owusu-Koramoah,Inside Linebacker,74.0,221.0,12.0,1.0,91.0,Hampton,VA,USA,37.0520315,-76.2856365,51650.0
+4040945.0,104787,2449,North Dakota State,MVFC,10,Tennessee,2021,53,2,21,Dillon Radunz,Offensive Tackle,78.0,301.0,39.0,6.0,87.0,Becker,MN,USA,45.3931821,-93.8768904,27141.0
+4242659.0,104809,238,Vanderbilt,SEC,11,Indianapolis,2021,54,2,22,Dayo Odeyingbo,Defensive End,77.0,285.0,109.0,10.0,70.0,Irving,TX,USA,32.8295183,-96.9442177,48113.0
+4361411.0,104757,213,Penn State,Big Ten,23,Pittsburgh,2021,55,2,23,Pat Freiermuth,Tight End,77.0,251.0,58.0,3.0,80.0,Merrimac,MA,USA,42.8306456,-71.0022786,25009.0
+4043016.0,105167,2711,Western Michigan,Mid-American,26,Seattle,2021,56,2,24,D'Wayne Eskridge,Wide Receiver,69.0,190.0,57.0,10.0,80.0,Bluffton,IN,USA,40.7386579,-85.1716368,18179.0
+4360797.0,104822,97,Louisville,ACC,14,Los Angeles,2021,57,2,25,Tutu Atwell,Wide Receiver,69.0,155.0,44.0,7.0,85.0,Miami,FL,USA,25.7742658,-80.1936589,12086.0
+4362759.0,104934,142,Missouri,SEC,12,Kansas City,2021,58,2,26,Nick Bolton,Inside Linebacker,71.0,237.0,40.0,4.0,87.0,Frisco,TX,USA,33.1506744,-96.8236116,48085.0
+4362630.0,105140,99,LSU,SEC,29,Carolina,2021,59,2,27,Terrace Marshall Jr.,Wide Receiver,75.0,205.0,46.0,8.0,84.0,Bossier City,LA,USA,32.5369356,-93.6952689,22015.0
+4241993.0,104769,194,Ohio State,Big Ten,18,New Orleans,2021,60,2,28,Pete Werner,Inside Linebacker,75.0,238.0,99.0,7.0,71.0,Indianapolis,IN,USA,39.7683331,-86.1583502,18097.0
+4037239.0,104747,154,Wake Forest,ACC,2,Buffalo,2021,61,2,29,Carlos Basham Jr.,Defensive End,75.0,274.0,43.0,6.0,86.0,Roanoke,VA,USA,37.270973,-79.9414313,51770.0
+4242000.0,104832,194,Ohio State,Big Ten,9,Green Bay,2021,62,2,30,Josh Myers,Center,77.0,310.0,106.0,3.0,70.0,Miamisburg,OH,USA,39.6428362,-84.2866083,39113.0
+4241385.0,104819,201,Oklahoma,Big 12,12,Kansas City,2021,63,2,31,Creed Humphrey,Center,76.0,302.0,55.0,2.0,81.0,Shawnee,OK,USA,35.3272928,-96.9253004,40125.0
+4034946.0,105144,57,Florida,SEC,27,Tampa Bay,2021,64,2,32,Kyle Trask,Quarterback,77.0,236.0,65.0,7.0,78.0,Manvel,TX,USA,29.4664706,-95.355714,48039.0
+4361939.0,104824,183,Syracuse,ACC,30,Jacksonville,2021,65,3,1,Andre Cisco,Safety,73.0,216.0,50.0,2.0,82.0,Valley Stream,NY,USA,40.6631362,-73.7056955,36059.0
+4240904.0,104791,245,Texas A&M,SEC,16,Minnesota,2021,66,3,2,Kellen Mond,Quarterback,75.0,211.0,67.0,8.0,77.0,San Antonio,TX,USA,29.4246002,-98.4951405,48029.0
+4242546.0,105275,24,Stanford,Pac-12,34,Houston,2021,67,3,3,Davis Mills,Quarterback,76.0,217.0,63.0,6.0,79.0,Duluth,GA,USA,34.0028569,-84.1441046,13135.0
+4372093.0,104800,130,Michigan,Big Ten,1,Atlanta,2021,68,3,4,Jalen Mayfield,Offensive Tackle,77.0,326.0,112.0,11.0,70.0,Grand Rapids,MI,USA,42.9632405,-85.6678639,26081.0
+4362094.0,104834,251,Texas,Big 12,4,Cincinnati,2021,69,3,5,Joseph Ossai,Defensive End,76.0,256.0,84.0,4.0,74.0,Conroe,TX,USA,30.3118769,-95.4560512,48339.0
+4256062.0,105304,252,BYU,FBS Independents,29,Carolina,2021,70,3,6,Brady Christensen,Offensive Tackle,77.0,302.0,238.0,17.0,39.0,Bountiful,UT,USA,40.8894611,-111.8804817,49011.0
+4040979.0,104893,2116,UCF,American Athletic,19,New York,2021,71,3,7,Aaron Robinson,Cornerback,72.0,186.0,74.0,11.0,76.0,Deerfield Beach,FL,USA,26.318342,-80.0996306,12011.0
+4361662.0,105272,152,NC State,ACC,8,Detroit,2021,72,3,8,Alim McNeill,Defensive Tackle,74.0,317.0,70.0,3.0,77.0,Raleigh,NC,USA,35.7803977,-78.6390989,37183.0
+4239699.0,105278,2348,Louisiana Tech,Conference USA,21,Philadelphia,2021,73,3,9,Milton Williams,Defensive Tackle,75.0,284.0,80.0,4.0,75.0,Crowley,TX,USA,32.5782835,-97.3609829,48439.0
+4258206.0,105213,135,Minnesota,Big Ten,28,Washington,2021,74,3,10,Benjamin St-Juste,Cornerback,75.0,202.0,81.0,12.0,75.0,Rosemere,QC,Canada,,,
+4035840.0,104884,26,UCLA,Pac-12,6,Dallas,2021,75,3,11,Osa Odighizuwa,Defensive Tackle,74.0,282.0,87.0,5.0,73.0,Portland,OR,USA,45.5202471,-122.6741949,41051.0
+4242547.0,104762,24,Stanford,Pac-12,18,New Orleans,2021,76,3,12,Paulson Adebo,Cornerback,73.0,198.0,95.0,15.0,72.0,Mansfield,TX,USA,32.5631924,-97.1416768,48439.0
+4242433.0,104837,2633,Tennessee,SEC,24,Los Angeles,2021,77,3,14,Josh Palmer,Wide Receiver,73.0,210.0,183.0,31.0,55.0,Brampton,ON,CAN,,,
+4037521.0,104808,153,North Carolina,ACC,16,Minnesota,2021,78,3,15,Chazz Surratt,Inside Linebacker,74.0,229.0,51.0,6.0,82.0,Denver,NC,USA,35.5312452,-81.0297994,37109.0
+4239719.0,105447,2084,Buffalo,Mid-American,13,Las Vegas,2021,79,3,16,Malcolm Koonce,Outside Linebacker,74.0,249.0,191.0,20.0,53.0,Peekskill,NY,USA,41.289811,-73.9204922,36119.0
+4037626.0,104845,259,Virginia Tech,ACC,13,Las Vegas,2021,80,3,17,Divine Deablo,Safety,75.0,226.0,202.0,17.0,50.0,Winston-salem,NC,USA,36.0998131,-80.2440518,37067.0
+4239944.0,105163,103,Boston College,ACC,15,Miami,2021,81,3,18,Hunter Long,Tight End,77.0,254.0,52.0,2.0,82.0,Exeter,NH,USA,42.981477,-70.9478343,33015.0
+4361577.0,105274,153,North Carolina,ACC,28,Washington,2021,82,3,19,Dyami Brown,Wide Receiver,73.0,189.0,98.0,17.0,71.0,Charlotte,NC,USA,35.2272,-80.843083,37119.0
+4372780.0,105276,87,Notre Dame,FBS Independents,29,Carolina,2021,83,3,20,Tommy Tremble,Tight End,75.0,241.0,93.0,4.0,73.0,Johns Creek,GA,USA,34.0181557,-84.190196,13121.0
+4036132.0,104923,2294,Iowa,Big Ten,6,Dallas,2021,84,3,21,Chauncey Golston,Defensive End,77.0,269.0,177.0,17.0,56.0,Detroit,MI,USA,42.3315509,-83.0466403,26163.0
+4239992.0,105190,228,Clemson,ACC,9,Green Bay,2021,85,3,22,Amari Rodgers,Wide Receiver,70.0,212.0,86.0,14.0,74.0,Knoxville,TN,USA,35.9603948,-83.9210261,47093.0
+4241999.0,104763,194,Ohio State,Big Ten,16,Minnesota,2021,86,3,23,Wyatt Davis,Offensive Guard,76.0,315.0,82.0,5.0,74.0,Bellflower,CA,USA,33.8825705,-118.1167679,6037.0
+4240548.0,105421,356,Illinois,Big Ten,23,Pittsburgh,2021,87,3,24,Kendrick Green,Center,76.0,315.0,168.0,13.0,58.0,Peoria,IL,USA,40.6938609,-89.5891008,17143.0
+4241401.0,104844,194,Ohio State,Big Ten,25,San Francisco,2021,88,3,25,Trey Sermon,Running Back,72.0,215.0,79.0,4.0,75.0,Marietta,GA,USA,33.9528472,-84.5496148,13067.0
+4258173.0,104759,130,Michigan,Big Ten,34,Houston,2021,89,3,26,Nico Collins,Wide Receiver,76.0,215.0,76.0,13.0,75.0,Birmingham,AL,USA,33.5206824,-86.8024326,1073.0
+4036063.0,104770,221,Pittsburgh,ACC,16,Minnesota,2021,90,3,27,Patrick Jones II,Defensive End,76.0,261.0,68.0,8.0,77.0,Chesapeake,VA,USA,36.7183708,-76.2466798,51550.0
+4371986.0,105302,2,Auburn,SEC,5,Cleveland,2021,91,3,28,Anthony Schwartz,Wide Receiver,72.0,186.0,72.0,11.0,76.0,Pembroke Pines,FL,USA,26.02322025,-80.34123906625615,12011.0
+4240692.0,104778,61,Georgia,SEC,10,Tennessee,2021,92,3,29,Monty Rice,Inside Linebacker,72.0,233.0,119.0,9.0,68.0,Madison,AL,USA,34.6928726,-86.7511427,1089.0
+4030899.0,104777,2460,Northern Iowa,MVFC,2,Buffalo,2021,93,3,30,Spencer Brown,Offensive Tackle,80.0,311.0,77.0,9.0,75.0,Lenox,IA,USA,40.8816547,-94.5619095,19173.0
+4035002.0,105199,61,Georgia,SEC,33,Baltimore,2021,94,3,31,Ben Cleveland,Offensive Guard,78.0,343.0,132.0,9.0,66.0,Toccoa,GA,USA,34.5774368,-83.332881,13257.0
+4242391.0,105189,87,Notre Dame,FBS Independents,27,Tampa Bay,2021,95,3,32,Robert Hainsey,Offensive Tackle,77.0,306.0,175.0,15.0,57.0,Pittsburgh,PA,USA,40.4416941,-79.9900861,42003.0
+4360274.0,105269,201,Oklahoma,Big 12,17,New England,2021,96,3,33,Ronnie Perkins,Defensive End,75.0,253.0,36.0,3.0,88.0,Saint Louis,MO,USA,38.6264178,-90.1998378,29510.0
+4240023.0,105180,61,Georgia,SEC,24,Los Angeles,2021,97,3,34,Tre' McKitty,Tight End,76.0,246.0,121.0,6.0,68.0,Wesley Chapel,FL,USA,28.1866014,-82.36612096903323,12101.0
+4608138.0,105181,1000211,Wisconsin-Whitewater,,7,Denver,2021,98,3,35,Quinn Meinerz,Offensive Guard,75.0,320.0,61.0,3.0,80.0,,,,,,
+4570470.0,105313,204,Oregon State,Pac-12,6,Dallas,2021,99,3,36,Nahshon Wright,Cornerback,76.0,183.0,272.0,34.0,34.0,East Palo Alto,CA,USA,37.4688273,-122.1410751,6081.0
+4243328.0,104784,264,Washington,Pac-12,10,Tennessee,2021,100,3,37,Elijah Molden,Cornerback,70.0,192.0,49.0,7.0,83.0,West Linn,OR,USA,45.3656761,-122.6123141,41005.0
+4240401.0,105166,183,Syracuse,ACC,8,Detroit,2021,101,3,38,Ifeatu Melifonwu,Cornerback,75.0,205.0,59.0,8.0,80.0,South Grafton,MA,USA,39.3370361,-80.020355,54091.0
+4258209.0,104817,130,Michigan,Big Ten,25,San Francisco,2021,102,3,39,Ambry Thomas,Cornerback,72.0,191.0,166.0,25.0,58.0,Detroit,MI,USA,42.3315509,-83.0466403,26163.0
+4362851.0,105281,2579,South Carolina,SEC,14,Los Angeles,2021,103,3,40,Ernest Jones,Inside Linebacker,74.0,230.0,127.0,10.0,67.0,Waycross,GA,USA,31.2135511,-82.3540178,13299.0
+4035824.0,105303,2567,SMU,American Athletic,33,Baltimore,2021,104,3,41,Brandon Stephens,Cornerback,72.0,213.0,236.0,29.0,39.0,Plano,TX,USA,33.0136764,-96.6925096,48085.0
+4241987.0,104785,194,Ohio State,Big Ten,7,Denver,2021,105,3,42,Baron Browning,Outside Linebacker,75.0,245.0,107.0,5.0,70.0,Fort Worth,TX,USA,32.753177,-97.3327459,48439.0
+4259647.0,104768,30,USC,Pac-12,30,Jacksonville,2021,106,4,1,Jay Tufele,Defensive Tackle,74.0,305.0,97.0,6.0,72.0,Salt Lake City,UT,USA,40.7596198,-111.8867975,49035.0
+4240657.0,104826,153,North Carolina,ACC,20,New York,2021,107,4,2,Michael Carter,Running Back,68.0,201.0,83.0,5.0,74.0,Navarre,FL,USA,30.4019789,-86.8700821,12113.0
+4261606.0,105209,21,San Diego State,Mountain West,1,Atlanta,2021,108,4,3,Darren Hall,Cornerback,71.0,188.0,262.0,33.0,35.0,Pasadena,CA,USA,34.1476452,-118.1444779,6037.0
+4036026.0,105171,97,Louisville,ACC,10,Tennessee,2021,109,4,4,Dez Fitzpatrick,Wide Receiver,74.0,208.0,176.0,29.0,57.0,Farmington Hills,MI,USA,42.4853125,-83.3771553,26125.0
+4258181.0,105164,2132,Cincinnati,American Athletic,5,Cleveland,2021,110,4,5,James Hudson,Offensive Tackle,77.0,313.0,88.0,10.0,73.0,Toledo,OH,USA,41.6786754,-83.5127283,39095.0
+4243923.0,105201,2655,Tulane,American Athletic,4,Cincinnati,2021,111,4,6,Cameron Sample,Defensive End,75.0,267.0,281.0,24.0,33.0,Snellville,GA,USA,33.857328,-84.0199108,13135.0
+4374302.0,105283,30,USC,Pac-12,8,Detroit,2021,112,4,7,Amon-Ra St. Brown,Wide Receiver,72.0,197.0,133.0,21.0,66.0,Anaheim Hills,CA,USA,33.8256835,-117.7565662,6059.0
+4260409.0,105212,2509,Purdue,Big Ten,8,Detroit,2021,113,4,8,Derrick Barnes,Inside Linebacker,72.0,238.0,252.0,18.0,37.0,Covington,KY,USA,39.0836224,-84.508371,21117.0
+4242553.0,105287,24,Stanford,Pac-12,1,Atlanta,2021,114,4,9,Drew Dalman,Center,75.0,299.0,152.0,5.0,60.0,Salinas,CA,USA,36.6744117,-121.6550372,6053.0
+4040940.0,104754,99,LSU,SEC,6,Dallas,2021,115,4,10,Jabril Cox,Inside Linebacker,75.0,232.0,47.0,5.0,84.0,Raytown,MO,USA,39.0168425,-94.4630468,29095.0
+4030924.0,104916,2460,Northern Iowa,MVFC,19,New York,2021,116,4,11,Elerson Smith,Outside Linebacker,78.0,252.0,136.0,6.0,65.0,Minneapolis,MN,USA,44.9772995,-93.2654692,27053.0
+4372518.0,105280,245,Texas A&M,SEC,14,Los Angeles,2021,117,4,12,Bobby Brown III,Defensive Tackle,76.0,321.0,126.0,11.0,67.0,Gibsonton,FL,USA,27.8536365,-82.3825931,12057.0
+4240475.0,104767,150,Duke,ACC,24,Los Angeles,2021,118,4,13,Chris Rumph II,Outside Linebacker,75.0,244.0,69.0,3.0,77.0,Gainesville,FL,USA,29.6519684,-82.3249846,12001.0
+4035537.0,105481,66,Iowa State,Big 12,16,Minnesota,2021,119,4,14,Kene Nwangwu,Running Back,73.0,210.0,,,,Frisco,TX,USA,33.1506744,-96.8236116,48085.0
+4569173.0,105165,201,Oklahoma,Big 12,17,New England,2021,120,4,15,Rhamondre Stevenson,Running Back,72.0,231.0,110.0,6.0,70.0,Las Vegas,NV,USA,36.1672559,-115.1485163,32003.0
+4034957.0,105169,5,UAB,Conference USA,30,Jacksonville,2021,121,4,16,Jordan Smith,Defensive End,78.0,264.0,161.0,8.0,59.0,Lithonia,GA,USA,33.7123305,-84.1051939,13089.0
+4242228.0,104756,99,LSU,SEC,4,Cincinnati,2021,122,4,17,Tyler Shelvin,Defensive Tackle,74.0,350.0,116.0,9.0,69.0,Lafayette,LA,USA,30.2240897,-92.0198427,22055.0
+4045161.0,105438,2641,Texas Tech,Big 12,21,Philadelphia,2021,123,4,18,Zech McPhearson,Cornerback,71.0,191.0,317.0,38.0,30.0,Columbia,MD,USA,39.19391955,-76.87477229012376,24027.0
+4048228.0,105423,68,Boise State,Mountain West,28,Washington,2021,124,4,19,John Bates,Tight End,77.0,250.0,189.0,9.0,53.0,Lebanon,OR,USA,44.5365467,-122.9068762,41043.0
+4035861.0,104811,25,California,Pac-12,16,Minnesota,2021,125,4,20,Camryn Bynum,Cornerback,72.0,196.0,130.0,21.0,66.0,Corona,CA,USA,33.8752945,-117.5664449,6065.0
+4241416.0,104765,197,Oklahoma State,Big 12,29,Carolina,2021,126,4,21,Chuba Hubbard,Running Back,72.0,210.0,150.0,9.0,61.0,Sherwood Park,AB,CAN,,,
+4039160.0,105195,2567,SMU,American Athletic,11,Indianapolis,2021,127,4,22,Kylen Granson,Tight End,74.0,241.0,235.0,13.0,40.0,Austin,TX,USA,30.2711286,-97.7436995,48453.0
+4240920.0,105168,245,Texas A&M,SEC,23,Pittsburgh,2021,128,4,23,Dan Moore Jr.,Offensive Tackle,78.0,311.0,120.0,12.0,68.0,Beaumont,TX,USA,30.0860459,-94.1018461,48245.0
+4243830.0,105435,249,North Texas,Conference USA,27,Tampa Bay,2021,129,4,24,Jaelon Darden,Wide Receiver,68.0,174.0,314.0,47.0,31.0,Houston,TX,USA,29.7589382,-95.3676974,48201.0
+4032200.0,104825,2110,Central Arkansas,Southland,14,Los Angeles,2021,130,4,25,Robert Rochell,Cornerback,72.0,193.0,113.0,18.0,69.0,Shreveport,LA,USA,32.5221828,-93.7651944,22017.0
+4241424.0,104781,197,Oklahoma State,Big 12,33,Baltimore,2021,131,4,26,Tylan Wallace,Wide Receiver,71.0,194.0,75.0,12.0,76.0,Fort Worth,TX,USA,32.753177,-97.3327459,48439.0
+4361366.0,105285,194,Ohio State,Big Ten,5,Cleveland,2021,132,4,27,Tommy Togiai,Defensive Tackle,74.0,296.0,135.0,12.0,65.0,Pocatello,ID,USA,42.8688613,-112.4401098,16005.0
+4046678.0,105150,87,Notre Dame,FBS Independents,18,New Orleans,2021,133,4,28,Ian Book,Quarterback,72.0,211.0,221.0,10.0,43.0,El Dorado Hills,CA,USA,38.6561185,-121.0743265,6017.0
+4035604.0,105177,52,Florida State,ACC,16,Minnesota,2021,134,4,29,Janarius Robinson,Defensive End,77.0,263.0,201.0,21.0,50.0,Panama City,FL,USA,30.1600827,-85.6545729,12005.0
+4036076.0,104797,221,Pittsburgh,ACC,10,Tennessee,2021,135,4,30,Rashad Weaver,Defensive End,76.0,259.0,114.0,11.0,69.0,Fort Lauderdale,FL,USA,26.1223084,-80.1433786,12011.0
+4240595.0,104772,57,Florida,SEC,22,Arizona,2021,136,4,31,Marco Wilson,Cornerback,72.0,191.0,108.0,17.0,70.0,Fort Lauderdale,FL,USA,26.1223084,-80.1433786,12011.0
+4241373.0,104847,201,Oklahoma,Big 12,26,Seattle,2021,137,4,32,Tre Brown,Cornerback,70.0,185.0,138.0,22.0,64.0,Tulsa,OK,USA,36.1556805,-95.9929113,40143.0
+4035626.0,104877,276,Marshall,Conference USA,6,Dallas,2021,138,4,33,Josh Ball,Offensive Tackle,79.0,308.0,218.0,16.0,44.0,Fredericksburg,VA,USA,38.3031837,-77.4605399,51630.0
+4038565.0,105289,151,East Carolina,American Athletic,4,Cincinnati,2021,139,4,34,D'Ante Smith,Offensive Tackle,77.0,305.0,162.0,13.0,59.0,Augusta,GA,USA,33.4709714,-81.9748429,13245.0
+4240900.0,105431,245,Texas A&M,SEC,23,Pittsburgh,2021,140,4,35,Buddy Johnson,Inside Linebacker,73.0,229.0,293.0,23.0,32.0,Dallas,TX,USA,32.7762719,-96.7968559,48113.0
+3932144.0,105482,2116,UCF,American Athletic,14,Los Angeles,2021,141,4,36,Jacob Harris,Wide Receiver,77.0,211.0,,,,Palm Harbor,FL,USA,28.0780718,-82.7637127,12103.0
+4047660.0,105200,145,Ole Miss,SEC,9,Green Bay,2021,142,4,37,Royce Newman,Offensive Guard,77.0,310.0,245.0,19.0,38.0,Nashville,IL,USA,38.3434906,-89.3809783,20095.0
+4241195.0,105306,142,Missouri,SEC,13,Las Vegas,2021,143,4,38,Tyree Gillespie,Safety,72.0,207.0,157.0,12.0,59.0,Ocala,FL,USA,29.1871986,-82.1400923,12083.0
+4240026.0,105291,52,Florida State,ACC,12,Kansas City,2021,144,4,39,Joshua Kaindoh,Defensive End,78.0,260.0,167.0,14.0,58.0,Baltimore,MD,USA,39.2908816,-76.610759,24510.0
+4040612.0,105351,194,Ohio State,Big Ten,30,Jacksonville,2021,145,5,1,Luke Farrell,Tight End,78.0,251.0,313.0,17.0,31.0,Perry,OH,USA,41.760326,-81.140932,39085.0
+4361331.0,105284,2,Auburn,SEC,20,New York,2021,146,5,2,Jamien Sherwood,Safety,74.0,216.0,187.0,14.0,53.0,Jensen Beach,FL,USA,27.2379528,-80.23898988902575,12085.0
+4362504.0,104786,2390,Miami,ACC,34,Houston,2021,147,5,3,Brevin Jordan,Tight End,75.0,247.0,104.0,5.0,71.0,Las Vegas,NV,USA,36.1672559,-115.1485163,32003.0
+4262197.0,105184,251,Texas,Big 12,1,Atlanta,2021,148,5,4,Ta'Quon Graham,Defensive Tackle,75.0,292.0,263.0,23.0,35.0,Temple,TX,USA,31.098207,-97.3427847,48027.0
+4360234.0,105347,57,Florida,SEC,4,Cincinnati,2021,149,5,5,Evan McPherson,Place Kicker,71.0,185.0,309.0,2.0,31.0,Fort Payne,AL,USA,34.4442547,-85.7196893,1049.0
+4371733.0,104788,235,Memphis,American Athletic,21,Philadelphia,2021,150,5,6,Kenneth Gainwell,Running Back,68.0,201.0,142.0,8.0,63.0,Yazoo City,MS,USA,32.8551326,-90.4056469,28163.0
+4241217.0,105309,142,Missouri,SEC,3,Chicago,2021,151,5,7,Larry Borom,Offensive Tackle,77.0,322.0,259.0,19.0,36.0,Bloomfield Hills,MI,USA,42.583645,-83.2454883,26125.0
+4362077.0,104807,251,Texas,Big 12,7,Denver,2021,152,5,8,Caden Sterns,Safety,72.0,202.0,139.0,10.0,64.0,Cibolo,TX,USA,29.5707831,-98.2330927,48187.0
+4245655.0,104876,277,West Virginia,Big 12,5,Cleveland,2021,153,5,9,Tony Fields II,Inside Linebacker,72.0,222.0,193.0,16.0,52.0,Las Vegas,NV,USA,36.1672559,-115.1485163,32003.0
+4240456.0,105441,150,Duke,ACC,20,New York,2021,154,5,10,Michael Carter II,Safety,70.0,184.0,320.0,40.0,30.0,Douglasville,GA,USA,33.7514966,-84.7477136,13097.0
+4043041.0,105173,2711,Western Michigan,Mid-American,25,San Francisco,2021,155,5,11,Jaylon Moore,Offensive Guard,76.0,311.0,147.0,10.0,62.0,Detroit,MI,USA,42.3315509,-83.0466403,26163.0
+4035798.0,105483,275,Wisconsin,Big Ten,23,Pittsburgh,2021,156,5,12,Isaiahh Loudermilk,Defensive Tackle,79.0,293.0,,,,Howard,KS,USA,37.4703117,-96.2636066,20049.0
+4240573.0,104790,2294,Iowa,Big Ten,16,Minnesota,2021,157,5,13,Ihmir Smith-Marsette,Wide Receiver,73.0,181.0,170.0,28.0,58.0,Newark,NJ,USA,40.735657,-74.1723667,34013.0
+4360484.0,105137,2294,Iowa,Big Ten,29,Carolina,2021,158,5,14,Daviyon Nixon,Defensive Tackle,75.0,313.0,103.0,7.0,71.0,Kenosha,WI,USA,42.5846773,-87.8212263,55059.0
+4240800.0,104932,158,Nebraska,Big Ten,24,Los Angeles,2021,159,5,15,Brenden Jaimes,Offensive Tackle,77.0,298.0,270.0,20.0,35.0,Austin,TX,USA,30.2711286,-97.7436995,48453.0
+4241995.0,104746,194,Ohio State,Big Ten,33,Baltimore,2021,160,5,16,Shaun Wade,Cornerback,73.0,196.0,101.0,16.0,71.0,Jacksonville,FL,USA,30.3321838,-81.655651,12031.0
+4038986.0,104820,193,Miami (OH),Mid-American,2,Buffalo,2021,161,5,17,Tommy Doyle,Offensive Tackle,80.0,320.0,153.0,11.0,60.0,Edina,MN,USA,44.8897027,-93.3501222,27053.0
+4240472.0,104821,150,Duke,ACC,12,Kansas City,2021,162,5,18,Noah Gray,Tight End,75.0,240.0,164.0,7.0,59.0,Leominster,MA,USA,42.5192095,-71.7678956,25027.0
+4239088.0,105430,2132,Cincinnati,American Athletic,28,Washington,2021,163,5,19,Darrick Forrest,Safety,72.0,206.0,291.0,27.0,32.0,Columbus,OH,USA,39.9622601,-83.0007065,39049.0
+4371949.0,105293,84,Indiana,Big Ten,7,Denver,2021,164,5,20,Jamar Johnson,Safety,72.0,205.0,91.0,5.0,73.0,Sarasota,FL,USA,27.3364347,-82.5306527,12115.0
+4240602.0,104793,57,Florida,SEC,11,Indianapolis,2021,165,5,21,Shawn Davis,Safety,71.0,202.0,192.0,15.0,52.0,Miami,FL,USA,25.7742658,-80.1936589,12086.0
+4243332.0,105208,264,Washington,Pac-12,29,Carolina,2021,166,5,22,Keith Taylor,Cornerback,74.0,187.0,256.0,32.0,36.0,Long Beach,CA,USA,33.7690164,-118.1916048,6037.0
+4240542.0,105484,356,Illinois,Big Ten,13,Las Vegas,2021,167,5,23,Nate Hobbs,Cornerback,72.0,195.0,,,,Louisville,KY,USA,38.2542376,-85.759407,21111.0
+,105422,1000928,Central Missouri,,16,Minnesota,2021,168,5,24,Zach Davidson,Tight End,79.0,245.0,179.0,8.0,56.0,,,,,,
+4240686.0,104803,61,Georgia,SEC,5,Cleveland,2021,169,5,25,Richard LeCounte,Safety,71.0,196.0,96.0,6.0,72.0,Riceboro,GA,USA,31.7354935,-81.4334408,13179.0
+4241807.0,104853,2628,TCU,Big 12,34,Houston,2021,170,5,26,Garret Wallow,Inside Linebacker,74.0,220.0,186.0,14.0,54.0,New Orleans,LA,USA,29.9499323,-90.0701156,22071.0
+4039028.0,105147,87,Notre Dame,FBS Independents,33,Baltimore,2021,171,5,27,Daelin Hayes,Defensive End,76.0,253.0,134.0,12.0,65.0,Belleville,MI,USA,42.2048414,-83.4852106,17163.0
+4242488.0,105440,2483,Oregon,Pac-12,25,San Francisco,2021,172,5,28,Deommodore Lenoir,Cornerback,70.0,199.0,319.0,39.0,30.0,Los Angeles,CA,USA,34.0536909,-118.2427666,6037.0
+4240612.0,105457,57,Florida,SEC,9,Green Bay,2021,173,5,29,Tedarrell Slaton,Defensive Tackle,76.0,330.0,335.0,21.0,30.0,Fort Lauderdale,FL,USA,26.1223084,-80.1433786,12011.0
+4242292.0,105439,77,Northwestern,Big Ten,14,Los Angeles,2021,174,5,30,Earnest Brown IV,Defensive End,77.0,270.0,318.0,28.0,30.0,Aubrey,TX,USA,33.31420850000001,-96.97563229497024,48121.0
+4240706.0,105485,221,Pittsburgh,ACC,20,New York,2021,175,5,31,Jason Pinnock,Cornerback,72.0,200.0,,,,Windsor,CT,USA,41.8525984,-72.6437022,9003.0
+4242521.0,104841,2,Auburn,SEC,27,Tampa Bay,2021,176,5,32,K.J. Britt,Inside Linebacker,73.0,235.0,131.0,11.0,66.0,Oxford,AL,USA,33.5853695,-85.91428175037092,1121.0
+4372085.0,105288,130,Michigan,Big Ten,17,New England,2021,177,5,33,Cameron McGrone,Inside Linebacker,73.0,234.0,159.0,13.0,59.0,Indianapolis,IN,USA,39.7683331,-86.1583502,18097.0
+4036430.0,105486,2026,App State,Sun Belt,9,Green Bay,2021,178,5,34,Shemar Jean-Charles,Cornerback,71.0,190.0,,,,Miramar,FL,USA,25.97591145,-80.33472128115224,12011.0
+4360739.0,105292,24,Stanford,Pac-12,6,Dallas,2021,179,5,35,Simi Fehoko,Wide Receiver,76.0,222.0,180.0,30.0,56.0,Sandy,UT,USA,40.5664878,-111.838904,49035.0
+4360853.0,105296,30,USC,Pac-12,25,San Francisco,2021,180,5,36,Talanoa Hufanga,Safety,72.0,199.0,212.0,20.0,46.0,Corvallis,OR,USA,44.5645659,-123.2620435,41003.0
+4035465.0,105203,228,Clemson,ACC,12,Kansas City,2021,181,5,37,Cornell Powell,Wide Receiver,72.0,204.0,230.0,39.0,41.0,Greenville,NC,USA,35.612661,-77.3663538,37147.0
+4046693.0,104905,87,Notre Dame,FBS Independents,1,Atlanta,2021,182,5,38,Adetokunbo Ogundeji,Defensive End,77.0,260.0,181.0,18.0,55.0,West Bloomfield,MI,USA,42.5679,-83.3733,36069.0
+4048259.0,105487,68,Boise State,Mountain West,1,Atlanta,2021,183,5,39,Avery Williams,Cornerback,69.0,195.0,,,,Pasadena,CA,USA,34.1476452,-118.1444779,6037.0
+4258190.0,105192,130,Michigan,Big Ten,33,Baltimore,2021,184,5,40,Ben Mason,Fullback,75.0,246.0,265.0,1.0,35.0,Newtown,CT,USA,41.4134764,-73.3086445,9001.0
+4036141.0,105477,2294,Iowa,Big Ten,24,Los Angeles,2021,185,6,1,Nick Niemann,Inside Linebacker,75.0,234.0,347.0,25.0,30.0,Sycamore,IL,USA,41.9889173,-88.6867538,17037.0
+4240030.0,104835,52,Florida State,ACC,20,New York,2021,186,6,2,Hamsah Nasirildeen,Safety,75.0,215.0,102.0,7.0,71.0,Concord,NC,USA,35.4093772,-80.5797416,37025.0
+4047836.0,105197,9,Arizona State,Pac-12,1,Atlanta,2021,187,6,3,Frank Darby,Wide Receiver,72.0,201.0,137.0,22.0,65.0,Jersey City,NJ,USA,40.7281575,-74.0776417,34017.0
+4241199.0,105328,142,Missouri,SEC,17,New England,2021,188,6,4,Joshuah Bledsoe,Safety,71.0,204.0,174.0,13.0,57.0,Houston,TX,USA,29.7589382,-95.3676974,48201.0
+4243218.0,105174,30,USC,Pac-12,21,Philadelphia,2021,189,6,5,Marlon Tuipulotu,Defensive Tackle,74.0,307.0,123.0,10.0,68.0,Independence,OR,USA,44.8560029,-123.1913034,41053.0
+4361787.0,105286,61,Georgia,SEC,4,Cincinnati,2021,190,6,6,Trey Hill,Center,76.0,319.0,146.0,4.0,62.0,Warner Robins,GA,USA,32.6200973,-83.606568,13153.0
+4052031.0,105175,324,Coastal Carolina,Sun Belt,21,Philadelphia,2021,191,6,7,Tarron Jackson,Defensive End,74.0,254.0,185.0,19.0,54.0,Aiken,SC,USA,33.5598586,-81.721952,45003.0
+4259978.0,104840,96,Kentucky,SEC,6,Dallas,2021,192,6,8,Quinton Bohanna,Defensive Tackle,76.0,327.0,197.0,14.0,51.0,Cordova,TN,USA,35.1556451,-89.7761955,47157.0
+4040962.0,104849,333,Alabama,SEC,29,Carolina,2021,193,6,9,Deonte Brown,Offensive Guard,75.0,344.0,128.0,8.0,67.0,Decatur,AL,USA,34.6060203,-86.9838165,1103.0
+4241555.0,104852,309,Louisiana,Sun Belt,25,San Francisco,2021,194,6,10,Elijah Mitchell,Running Back,70.0,201.0,211.0,14.0,47.0,Erath,LA,USA,29.9582611,-92.0359562,22113.0
+4040805.0,105480,12,Arizona,Pac-12,34,Houston,2021,195,6,11,Roy Lopez,Defensive Tackle,74.0,304.0,350.0,22.0,30.0,Tempe,AZ,USA,33.4255056,-111.9400125,4013.0
+4245645.0,105350,12,Arizona,Pac-12,19,New York,2021,196,6,12,Gary Brightwell,Running Back,71.0,218.0,312.0,24.0,31.0,Chester,PA,USA,39.849557,-75.3557458,42045.0
+4243186.0,105332,38,Colorado,Pac-12,17,New England,2021,197,6,13,William Sherman,Offensive Tackle,75.0,304.0,294.0,23.0,32.0,Allen,TX,USA,33.1031744,-96.6705503,48085.0
+4241205.0,104867,142,Missouri,SEC,24,Los Angeles,2021,198,6,14,Larry Rountree III,Running Back,71.0,211.0,182.0,12.0,55.0,Raleigh,NC,USA,35.7803977,-78.6390989,37183.0
+4240716.0,104810,221,Pittsburgh,ACC,16,Minnesota,2021,199,6,15,Jaylen Twyman,Defensive Tackle,74.0,301.0,158.0,13.0,59.0,Washington,DC,USA,38.8949855,-77.0365708,11001.0
+4567979.0,104860,96,Kentucky,SEC,20,New York,2021,200,6,16,Brandin Echols,Cornerback,70.0,179.0,200.0,27.0,50.0,Memphis,TN,USA,35.1490215,-90.0516285,47157.0
+4038430.0,105196,197,Oklahoma State,Big 12,19,New York,2021,201,6,17,Rodarius Williams,Cornerback,72.0,189.0,242.0,30.0,38.0,Shreveport,LA,USA,32.5221828,-93.7651944,22017.0
+4046530.0,104783,130,Michigan,Big Ten,4,Cincinnati,2021,202,6,18,Chris Evans,Running Back,71.0,211.0,178.0,11.0,56.0,Indianapolis,IN,USA,39.7683331,-86.1583502,18097.0
+4039307.0,104798,248,Houston,American Athletic,2,Buffalo,2021,203,6,19,Marquez Stevenson,Wide Receiver,70.0,180.0,143.0,24.0,63.0,Shreveport,LA,USA,32.5221828,-93.7651944,22017.0
+4259499.0,104917,2579,South Carolina,SEC,29,Carolina,2021,204,6,20,Shi Smith,Wide Receiver,70.0,186.0,89.0,15.0,73.0,Union,SC,USA,34.7151939,-81.6237462,45087.0
+4242231.0,105188,99,LSU,SEC,10,Tennessee,2021,205,6,21,Racey McMath,Wide Receiver,75.0,211.0,241.0,40.0,39.0,New Orleans,LA,USA,29.9499323,-90.0701156,22071.0
+4035079.0,105323,96,Kentucky,SEC,18,New Orleans,2021,206,6,22,Landon Young,Offensive Tackle,78.0,310.0,287.0,22.0,33.0,Lexington,KY,USA,38.0464066,-84.4970393,21067.0
+4035590.0,105307,8,Arkansas,SEC,20,New York,2021,207,6,23,Jonathan Marshall,Defensive Tackle,75.0,310.0,243.0,16.0,38.0,Shepherd,TX,USA,30.4979813,-94.9966006,48407.0
+4034962.0,105448,57,Florida,SEC,26,Seattle,2021,208,6,24,Stone Forsythe,Offensive Tackle,80.0,307.0,326.0,25.0,30.0,Winter Garden,FL,USA,28.5656649,-81.5856742,12095.0
+4037311.0,105488,59,Georgia Tech,ACC,30,Jacksonville,2021,209,6,25,Jalen Camp,Wide Receiver,74.0,220.0,,,,Cumming,GA,USA,34.2073196,-84.1401926,13117.0
+4240464.0,105453,150,Duke,ACC,22,Arizona,2021,210,6,26,Victor Dimukeje,Defensive End,74.0,262.0,331.0,29.0,30.0,Baltimore,MD,USA,39.2908816,-76.610759,24510.0
+4035826.0,105149,26,UCLA,Pac-12,5,Cleveland,2021,211,6,27,Demetric Felton,Wide Receiver,69.0,189.0,140.0,7.0,64.0,Temecula,CA,USA,33.4946353,-117.1473661,6065.0
+4036060.0,104875,221,Pittsburgh,ACC,2,Buffalo,2021,212,6,28,Damar Hamlin,Safety,73.0,200.0,118.0,8.0,68.0,Mckees Rocks,PA,USA,40.4656244,-80.0656106,42003.0
+4372560.0,105277,275,Wisconsin,Big Ten,2,Buffalo,2021,213,6,29,Rachad Wildgoose,Cornerback,70.0,191.0,124.0,20.0,67.0,Miramar,FL,USA,25.97591145,-80.33472128115224,12011.0
+4035791.0,105429,275,Wisconsin,Big Ten,9,Green Bay,2021,214,6,30,Cole Van Lanen,Offensive Tackle,76.0,305.0,286.0,23.0,33.0,Green Bay,WI,USA,44.5126379,-88.0125794,55009.0
+4038944.0,105425,2483,Oregon,Pac-12,10,Tennessee,2021,215,6,31,Brady Breeze,Safety,72.0,197.0,264.0,24.0,35.0,Lake Oswego,OR,USA,45.4206749,-122.6706498,41005.0
+4044145.0,104868,2390,Miami,ACC,23,Pittsburgh,2021,216,6,32,Quincy Roche,Outside Linebacker,75.0,245.0,173.0,16.0,57.0,Randallstown,MD,USA,39.3676844,-76.7954545,24005.0
+4035886.0,105172,259,Virginia Tech,ACC,3,Chicago,2021,217,6,33,Khalil Herbert,Running Back,69.0,210.0,213.0,15.0,46.0,Coral Springs,FL,USA,26.26485615,-80.26534203798758,12011.0
+4241820.0,104851,251,Texas,Big 12,11,Indianapolis,2021,218,6,34,Sam Ehlinger,Quarterback,73.0,220.0,247.0,12.0,38.0,Austin,TX,USA,30.2711286,-97.7436995,48453.0
+4371974.0,105290,2,Auburn,SEC,7,Denver,2021,219,6,35,Seth Williams,Wide Receiver,75.0,211.0,165.0,27.0,59.0,Cottondale,AL,USA,33.1895629,-87.4516703,1125.0
+4239947.0,105311,103,Boston College,ACC,9,Green Bay,2021,220,6,36,Isaiah McDuffie,Inside Linebacker,73.0,227.0,257.0,19.0,36.0,Buffalo,NY,USA,42.8867166,-78.8783922,36029.0
+4240661.0,105308,153,North Carolina,ACC,3,Chicago,2021,221,6,37,Dazz Newsome,Wide Receiver,70.0,190.0,255.0,41.0,37.0,Hampton,VA,USA,37.0520315,-76.2856365,51650.0
+4241455.0,105198,333,Alabama,SEC,29,Carolina,2021,222,6,38,Thomas Fletcher,Long Snapper,73.0,235.0,285.0,1.0,33.0,Georgetown,TX,USA,30.671598,-97.65500660120436,48491.0
+4568981.0,105420,2116,UCF,American Athletic,22,Arizona,2021,223,6,39,Tay Gowan,Cornerback,73.0,186.0,85.0,13.0,74.0,Covington,GA,USA,33.5967815,-83.8601827,13217.0
+4242204.0,104802,99,LSU,SEC,21,Philadelphia,2021,224,6,40,JaCoby Stevens,Safety,73.0,212.0,205.0,18.0,49.0,Murfreesboro,TN,USA,35.845999,-86.3920452,47149.0
+4046543.0,105489,130,Michigan,Big Ten,28,Washington,2021,225,6,41,Camaron Cheeseman,Long Snapper,76.0,230.0,,,,New Albany,OH,USA,40.0811745,-82.8087864,39049.0
+4242459.0,104748,2633,Tennessee,SEC,12,Kansas City,2021,226,6,42,Trey Smith,Offensive Guard,78.0,321.0,100.0,7.0,71.0,Jackson,TN,USA,35.6144446,-88.8177418,47113.0
+4362855.0,104758,2579,South Carolina,SEC,6,Dallas,2021,227,6,43,Israel Mukuamu,Cornerback,76.0,212.0,171.0,26.0,57.0,Bossier City,LA,USA,32.5369356,-93.6952689,22015.0
+4242485.0,105202,2483,Oregon,Pac-12,3,Chicago,2021,228,6,44,Thomas Graham Jr.,Cornerback,70.0,192.0,250.0,31.0,37.0,Rancho Cucamonga,CA,USA,34.1033192,-117.5751735,6071.0
+4589245.0,105299,2128,University Of Charleston (WV),Mountain East,11,Indianapolis,2021,229,7,1,Mike Strachan,Wide Receiver,77.0,226.0,223.0,37.0,43.0,,,,,,
+4046165.0,104891,221,Pittsburgh,ACC,13,Las Vegas,2021,230,7,2,Jimmy Morrissey,Center,75.0,303.0,267.0,8.0,35.0,Huntingdon Valley,PA,USA,40.1226101,-75.0635049,42091.0
+4044519.0,105490,113,Massachusetts,FBS Independents,15,Miami,2021,231,7,3,Larnel Coleman,Offensive Tackle,78.0,315.0,,,,Malden,MA,USA,42.4250964,-71.066163,25017.0
+4259989.0,105491,96,Kentucky,SEC,29,Carolina,2021,232,7,4,Phil Hoskins,Defensive Tackle,77.0,315.0,,,,Toledo,OH,USA,41.6786754,-83.5127283,39095.0
+4036224.0,105492,120,Maryland,Big Ten,14,Los Angeles,2021,233,7,5,Jake Funk,Running Back,70.0,205.0,,,,Gaithersburg,MD,USA,39.1434406,-77.2013705,24031.0
+4243916.0,105345,2655,Tulane,American Athletic,21,Philadelphia,2021,234,7,6,Patrick Johnson,Outside Linebacker,74.0,240.0,253.0,11.0,37.0,Chattanooga,TN,USA,35.0457219,-85.3094883,47065.0
+4241344.0,105207,2306,Kansas State,Big 12,4,Cincinnati,2021,235,7,7,Wyatt Hubert,Defensive End,75.0,258.0,290.0,25.0,32.0,Topeka,KS,USA,39.049011,-95.677556,20177.0
+4241844.0,104887,2641,Texas Tech,Big 12,2,Buffalo,2021,236,7,8,Jack Anderson,Offensive Guard,77.0,314.0,194.0,14.0,52.0,Frisco,TX,USA,33.1506744,-96.8236116,48085.0
+4242211.0,104863,99,LSU,SEC,7,Denver,2021,237,7,9,Kary Vincent Jr.,Cornerback,70.0,185.0,155.0,24.0,59.0,Houston,TX,USA,29.7589382,-95.3676974,48201.0
+4034843.0,105493,158,Nebraska,Big Ten,6,Dallas,2021,238,7,10,Matt Farniok,Offensive Guard,78.0,330.0,,,,Sioux Falls,SD,USA,43.5499749,-96.700327,46099.0
+4040608.0,105336,194,Ohio State,Big Ten,7,Denver,2021,239,7,11,Jonathon Cooper,Defensive End,75.0,253.0,300.0,26.0,31.0,Gahanna,OH,USA,40.0195625,-82.8791363,39049.0
+4036476.0,104816,239,Baylor,Big 12,28,Washington,2021,240,7,12,William Bradley-King,Outside Linebacker,76.0,252.0,172.0,15.0,57.0,Kansas City,MO,USA,39.100105,-94.5781416,29095.0
+4259570.0,104843,61,Georgia,SEC,24,Los Angeles,2021,241,7,13,Mark Webb,Safety,74.0,207.0,208.0,19.0,48.0,Philadelphia,PA,USA,39.9527237,-75.1635262,42101.0
+4047648.0,105436,2116,UCF,American Athletic,17,New England,2021,242,7,15,Tre Nixon,Wide Receiver,72.0,187.0,315.0,48.0,31.0,Viera,FL,USA,28.243006,-80.7301522,12009.0
+4044064.0,105300,2132,Cincinnati,American Athletic,22,Arizona,2021,243,7,16,James Wiggins,Safety,71.0,209.0,224.0,22.0,42.0,Miami,FL,USA,25.7742658,-80.1936589,12086.0
+4037478.0,105494,2132,Cincinnati,American Athletic,15,Miami,2021,244,7,17,Gerrid Doaks,Running Back,72.0,230.0,,,,Indianapolis,IN,USA,39.7683331,-86.1583502,18097.0
+4241396.0,105314,201,Oklahoma,Big 12,23,Pittsburgh,2021,245,7,18,Tre Norwood,Cornerback,72.0,192.0,273.0,25.0,34.0,Fort Smith,AR,USA,35.3872218,-94.4248983,5131.0
+4045169.0,104908,213,Penn State,Big Ten,28,Washington,2021,246,7,19,Shaka Toney,Defensive End,75.0,242.0,156.0,13.0,59.0,Philadelphia,PA,USA,39.9527237,-75.1635262,42101.0
+4045174.0,104866,213,Penn State,Big Ten,22,Arizona,2021,247,7,20,Michal Menet,Center,76.0,301.0,198.0,6.0,51.0,Birdsboro,PA,USA,40.2645371,-75.8040852,42011.0
+4045176.0,105449,213,Penn State,Big Ten,11,Indianapolis,2021,248,7,21,Will Fries,Offensive Tackle,78.0,309.0,327.0,26.0,30.0,Cranford,NJ,USA,40.6584358,-74.2995923,34039.0
+4035656.0,105179,87,Notre Dame,FBS Independents,14,Los Angeles,2021,249,7,22,Ben Skowronek,Wide Receiver,75.0,220.0,210.0,36.0,48.0,Fort Wayne,IN,USA,41.0799898,-85.1386015,18003.0
+4256074.0,105321,252,BYU,FBS Independents,3,Chicago,2021,250,7,23,Khyiris Tonga,Defensive Tackle,74.0,325.0,283.0,18.0,33.0,West Valley,UT,USA,40.8361755,-79.4230981,42005.0
+4046652.0,105455,252,BYU,FBS Independents,27,Tampa Bay,2021,251,7,24,Chris Wilcox,Cornerback,74.0,198.0,333.0,43.0,30.0,Fontana,CA,USA,34.0922335,-117.435048,6071.0
+4820589.0,105495,3066,Concordia University St Paul,Northern Sun,14,Los Angeles,2021,252,7,25,Chris Garrett,Outside Linebacker,76.0,250.0,,,,,,,,,
+4035372.0,105437,344,Mississippi State,SEC,7,Denver,2021,253,7,26,Marquiss Spencer,Defensive End,76.0,301.0,316.0,27.0,30.0,Greenwood,MS,USA,33.5162315,-90.1795281,28083.0
+4240485.0,105459,59,Georgia Tech,ACC,23,Pittsburgh,2021,254,7,27,Pressley Harvin III,Punter,71.0,263.0,337.0,4.0,30.0,Alcolu,SC,USA,33.7511805,-80.2127365,45027.0
+4068152.0,105496,6,South Alabama,Sun Belt,18,New Orleans,2021,255,7,28,Kawaan Baker,Wide Receiver,73.0,215.0,,,,Atlanta,GA,USA,33.7490987,-84.3901849,13121.0
+4259805.0,104931,344,Mississippi State,SEC,9,Green Bay,2021,256,7,29,Kylin Hill,Running Back,71.0,214.0,219.0,16.0,44.0,Columbus,MS,USA,33.4956744,-88.4272627,28087.0
+4374033.0,105325,204,Oregon State,Pac-12,8,Detroit,2021,257,7,30,Jermar Jefferson,Running Back,70.0,206.0,163.0,10.0,59.0,Harbor City,CA,USA,33.7972822,-118.3004717,6037.0
+4373642.0,105318,252,BYU,FBS Independents,28,Washington,2021,258,7,31,Dax Milne,Wide Receiver,73.0,193.0,279.0,44.0,34.0,South Jordan,UT,USA,40.5621704,-111.929658,49035.0
+4240255.0,105194,248,Houston,American Athletic,27,Tampa Bay,2021,259,7,32,Grant Stuard,Outside Linebacker,72.0,225.0,216.0,9.0,45.0,Conroe,TX,USA,30.3118769,-95.4560512,48339.0
 4426349.0,105673,61,Georgia,SEC,30,Jacksonville,2022,1,1,1,Travon Walker,Defensive End,77.0,272.0,2.0,2.0,93.0,Thomaston,GA,USA,32.8881879,-84.3265855,13293.0
 4372099.0,105537,130,Michigan,Big Ten,8,Detroit,2022,2,1,2,Aidan Hutchinson,Defensive End,79.0,260.0,1.0,1.0,94.0,Plymouth,MI,USA,45.0065149,-93.46651,27053.0
 4426434.0,105534,99,LSU,SEC,34,Houston,2022,3,1,3,Derek Stingley Jr.,Cornerback,72.0,190.0,8.0,2.0,92.0,Baton Rouge,LA,USA,30.4459596,-91.18738,22033.0
