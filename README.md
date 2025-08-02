@@ -3,8 +3,7 @@
 
 *A data analysis project designed to measure the relationship between the player rating received as a highschool football player and the rating received when entering the NFL Draft. I took Highschool football recruiting data from 2015 to 2023 and compared it with NFL Draft player rating data.
 
-(![Signing Day](image-2.png))
-(![NFL Draft](image-1.png))
+![Signing Day](image-2.png) ![NFL Draft](image-1.png)
 
 ## Questions:
 
