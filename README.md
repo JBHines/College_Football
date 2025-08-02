@@ -42,8 +42,8 @@ The project was created using Jupyter Notebook with a virtual environment in Vis
 
 ## Visualizations:
 
-I used tableau Public for my visualizations in order for the end-user to be able to interact with data. 
-[Dashboard 1](https://public.tableau.com/app/profile/brandon.hines5364/viz/NCAAtoDraftDashboard/Dashboard1?publish=yes)
+I used tableau Public for my visualizations in order for the end-user to be able to interact with data. Those visualizations can be found here:
+[Visualizations](https://public.tableau.com/app/profile/brandon.hines5364/viz/NCAAtoDraftDashboard/Dashboard1?publish=yes)
 
 # Key Findings:
 
