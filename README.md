@@ -47,7 +47,7 @@ I used tableau Public for my visualizations in order for the end-user to be able
 
 # Key Findings:
 
-There are very few players that have a positive rating change, meaning they were underrated when entering college. This is what I expected but the average change is -0.2206, which I found to be interesting. I thought the rating change average would be closer to -0.15. 
+There are very few players that have a positive rating change, meaning they were underrated when entering college. This is what I expected but the average change is -0.2206, which I found to be interesting. I thought the rating change average would be closer to -0.10 -0.15. 
 
 It was also interesting to compare schools with specific positions. There are schools like Ohio State University and University of Southern California, that are historically known to produce more wide receivers. The data I collected did not show that they produced the most receivers, but it did show on average to have a better change in rating. This "stereotyping" of schools held true. They might not have produced the most, but on average they produced a more consistant rated player.
 
