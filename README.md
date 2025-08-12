@@ -38,7 +38,15 @@ This data was downloaded by year and then combined. This was done for Recruiting
 
 ## How to Run:
 
-The project was created using Jupyter Notebook with a virtual environment in Visual Studio. The main project file '''Capstone.ipynb''' will contain all the code. There is a '''requirements.txt''' included in this repository to install all the packages needed to run this project on your own machine exactly as I have done.
+The project was created using Jupyter Notebook with a virtual environment in Visual Studio. The main project file Capstone.ipynb will contain all the code. There is a requirements.txt included in this repository to install all the packages needed to run this project on your own machine exactly as I have done. The instructions to run are as follows:
+
+1.Clone the repository.
+2.Save the Folder.
+3.Run pip install -r requirements.txt
+4.Open Jupyter Notebook from the command line or start menu.
+5.Go to the where you saved the notebook.
+6.Open 'Capstone.ipynb'
+7.Click Run all.
 
 ## Visualizations:
 
